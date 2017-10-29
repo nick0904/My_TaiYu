@@ -1,0 +1,24 @@
+
+{
+    "Brigade":[
+               {
+               "department" : "屏東科技大學 餐旅管理系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=449&qmt%5Btopic%5D%5B%5D=249"
+               },
+               
+               {
+               "department" : "高雄餐旅大學 休閒暨遊憩管理系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=666&qmt%5Btopic%5D%5B%5D=444"
+               },
+               
+               {
+               "department" : "朝陽科技大學 休閒事業管理",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=178&qmt%5Btopic%5D%5B%5D=625"
+               }
+               
+               ]
+    
+}

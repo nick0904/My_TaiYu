@@ -1,0 +1,37 @@
+
+
+{
+    "Desing":[
+              {
+              "department" : "臺北科技大學 建築系",
+              "people" : "IOH講座影片",
+              "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=153&qmt%5Btopic%5D%5B%5D=32"
+              },
+              
+              {
+              "department" : "屏東科技大學 木材科學與設計系",
+              "people" : "IOH講座影片",
+              "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=449&qmt%5Btopic%5D%5B%5D=452"
+              },
+              
+              {
+              "department" : "虎尾科技大學 多媒體設計系",
+              "people" : "IOH講座影片",
+              "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=487&qmt%5Btopic%5D%5B%5D=489"
+              },
+              
+              {
+              "department" : "崑山科技大學 視覺傳達設計系",
+              "people" : "IOH講座影片",
+              "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=190&qmt%5Bdegree%5D%5B%5D=27"
+              },
+              
+              {
+              "department" : "朝陽科技大學 建築系",
+              "people" : "IOH講座影片",
+              "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=178&qmt%5Btopic%5D%5B%5D=32"
+              }
+              
+              ]
+    
+}

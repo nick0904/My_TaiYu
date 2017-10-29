@@ -1,0 +1,19 @@
+
+
+{
+    "HomeCareGroup":[
+                     {
+                     "department" : "屏東科技大學 社會工作學系",
+                     "people" : "IOH講座影片",
+                     "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=449&qmt%5Btopic%5D%5B%5D=67"
+                     },
+                     
+                     {
+                     "department" : "屏東科技大學 幼兒保育系",
+                     "people" : "IOH講座影片",
+                     "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=449&qmt%5Btopic%5D%5B%5D=616"
+                     }
+                     
+                     ]
+    
+}

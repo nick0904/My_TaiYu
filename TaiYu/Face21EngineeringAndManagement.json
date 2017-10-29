@@ -1,0 +1,20 @@
+
+
+
+{
+    "EngineeringAndManagement":[
+                                {
+                                "department" : "屏東科技大學 環境工程學系",
+                                "people" : "IOH講座影片",
+                                "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=449&qmt%5Btopic%5D%5B%5D=166"
+                                },
+                                
+                                {
+                                "department" : "朝陽科技大學 工業工程與管理學系",
+                                "people" : "IOH講座影片",
+                                "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=178&qmt%5Btopic%5D%5B%5D=248"
+                                }
+                                
+                                ]
+    
+}

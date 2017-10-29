@@ -1,0 +1,43 @@
+Face_21_English
+
+{
+    "English":[
+               {
+               "department" : "高雄第一科技大學 應用英語學系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=352&qmt%5Btopic%5D%5B%5D=351"
+               },
+               
+               {
+               "department" : "屏東科技大學 應用外語系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=449&qmt%5Btopic%5D%5B%5D=405"
+               },
+               
+               {
+               "department" : "文藻外語大學 英國語文系",
+               "people" : "IOH講座影片",
+               "URL" : "http://c021.wzu.edu.tw/front/bin/home.phtml"
+               },
+               
+               {
+               "department" : "文藻外語大學 應用華語文系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=165&qmt%5Btopic%5D%5B%5D=474"
+               },
+               
+               {
+               "department" : "文藻外語大學 外語教學系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=165&qmt%5Btopic%5D%5B%5D=632"
+               },
+               
+               {
+               "department" : "德明財經科技大學 應用外語",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=516&qmt%5Btopic%5D%5B%5D=405"
+               },
+               
+               ]
+    
+}

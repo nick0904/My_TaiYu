@@ -1,0 +1,1751 @@
+
+{
+    "AllTaiwanSchool":[
+                       
+                       {
+                       "num" : "1",
+                       "area" : "臺北市",
+                       "national" : "公立",
+                       "school" : "國立交通大學(臺北校區)",
+                       "instruction" : "國立交通大學為公立綜合大學，簡稱交大，目前臺北校區為管理學院經營管理研究所、交通運輸研究所、EMBA以及教育推廣使用。",
+                       "URL" : "http://www.nctu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "2",
+                       "area" : "臺北市",
+                       "national" : "公立",
+                       "school" : "國立政治大學",
+                       "instruction" : "國立政治大學為公立綜合大學，簡稱政大，共有9個學院，現為發展人文學科及社會科學領域的研究型大學。",
+                       "URL" : "http://www.nccu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "3",
+                       "area" : "臺北市",
+                       "national" : "公立",
+                       "school" : "國立陽明大學",
+                       "instruction" : "國立陽明大學為公立綜合大學，簡稱陽明，共有7個學院，以醫學、生物科技、生命科學研究為主。",
+                       "URL" : "http://web.ym.edu.tw"
+                       },
+                       
+                       {
+                       "num" : "4",
+                       "area" : "臺北市",
+                       "national" : "公立",
+                       "school" : "國立臺北大學(臺北校區)",
+                       "instruction" : "國立臺北大學為公立綜合大學，簡稱國北大，共有6個學院，以法學、商學、人文學科、社會科學、公共行政領域教學為主的研究型大學。",
+                       "URL" : "http://www.ntpu.edu.tw/chinese/"
+                       },
+                       
+                       {
+                       "num" : "5",
+                       "area" : "臺北市",
+                       "national" : "公立",
+                       "school" : "國立臺灣大學",
+                       "instruction" : "國立臺灣大學為公立綜合大學，簡稱臺大，共有11個學院，學門規模為全臺第1，以自由主義學風著稱，橫跨自然科學與人文社會藝術領域。",
+                       "URL" : "http://www.ntu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "6",
+                       "area" : "臺北市",
+                       "national" : "公立",
+                       "school" : "臺北市立大學(博愛校區、天母校區)",
+                       "instruction" : "臺北市立大學為公立綜合大學，簡稱北市大，共有5個學院，為臺北市立體育學院併入改制為臺北市立教育大學，並附設一實驗小學。",
+                       "URL" : "http://www.utaipei.edu.tw/bin/home.php"
+                       },
+                       
+                       {
+                       "num" : "7",
+                       "area" : "臺北市",
+                       "national" : "公立",
+                       "school" : "國立臺北教育大學",
+                       "instruction" : "國立臺北教育大學為公立教育大學，簡稱北教大，共有3個學院，曾有意與臺灣大學合併，至今尚未定案。",
+                       "URL" : "http://www.ntue.edu.tw"
+                       },
+                       
+                       {
+                       "num" : "8",
+                       "area" : "臺北市",
+                       "national" : "公立",
+                       "school" : "國立臺灣師範大學",
+                       "instruction" : "國立臺灣師範大學為公立教育大學，簡稱臺師大，共有10個學院，以教育學、語言學、現代語言、美術學、音樂學與體育學為主，設有校級教育研究單位。",
+                       "URL" : "http://www2.ntnu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "9",
+                       "area" : "臺北市",
+                       "national" : "公立",
+                       "school" : "國立臺北藝術大學",
+                       "instruction" : "國立臺北藝術大學為公立藝術大學，簡稱北藝大，共有3個學院，以藝術、表演、人文研究、創作等科系為主。",
+                       "URL" : "http://1www.tnua.edu.tw/main.php"
+                       },
+                       
+                       {
+                       "num" : "10",
+                       "area" : "臺北市",
+                       "national" : "公立",
+                       "school" : "國立臺北科技大學",
+                       "instruction" : "國立臺北科技大學為公立科技大學，簡稱北科大，共有6個學院，是研究型的頂尖科大，在學術與實務上都有出色的表現。",
+                       "URL" : "http://www.ntut.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "11",
+                       "area" : "臺北市",
+                       "national" : "公立",
+                       "school" : "國立臺北商業大學",
+                       "instruction" : "國立臺北商業大學為公立科技大學，簡稱臺北商專，共有3個學院，為臺灣技職商業類頂尖科大。",
+                       "URL" : "http://www.ntub.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "12",
+                       "area" : "臺北市",
+                       "national" : "公立",
+                       "school" : "國立臺北護理健康大學(校本部、校區部)",
+                       "instruction" : "國立臺北護理健康大學為公立科技大學，簡稱北護大，共有3個學院，以教授健康科學課程為主。",
+                       "URL" : "http://www.ntunhs.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "13",
+                       "area" : "臺北市",
+                       "national" : "公立",
+                       "school" : "國立臺灣科技大學",
+                       "instruction" : "國立臺灣科技大學為公立科技大學，簡稱臺科大，建校之目的以培養高科技工程及管理人才為目標，為臺灣技職教育體系著名學府之一。",
+                       "URL" : "http://www.ntust.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "14",
+                       "area" : "臺北市",
+                       "national" : "公立",
+                       "school" : "國立臺灣戲曲學院(內湖校區、木柵校區)",
+                       "instruction" : "國立臺灣戲曲學院為公立戲曲學院，簡稱臺戲院，有6個科系，並附設高職部、國中部與國小部，為十二年一貫制之戲曲人才養成學府。",
+                       "URL" : "http://www.tcpa.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "15",
+                       "area" : "臺北市",
+                       "national" : "公立",
+                       "school" : "國防大學(復興崗校區)",
+                       "instruction" : "國防大學為公立軍警院校，共有４個學院，是中華民國規模最大的軍事專門學校、亦為首要之軍事學府。",
+                       "URL" : "http://www.ndu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "16",
+                       "area" : "臺北市",
+                       "national" : "公立",
+                       "school" : "國防醫學院",
+                       "instruction" : "國防醫學院為公立軍警院校，簡稱國防醫，共有5個系，是中華民國最高層級、歷史最悠久的軍醫學校。",
+                       "URL" : "http://www.ndmctsgh.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "17",
+                       "area" : "臺北市",
+                       "national" : "公立",
+                       "school" : "臺灣警察專科學校",
+                       "instruction" : "臺灣警察專科學校為公立軍警院校，簡稱警專，共有6個科，該校亦為全中華民國唯一辦理基層警察教育的學校。",
+                       "URL" : "http://www.tpa.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "18",
+                       "area" : "臺北市",
+                       "national" : "私立",
+                       "school" : "大同大學",
+                       "instruction" : "大同大學為私立綜合大學，共有4個學院，全校系所主要為工程、企業經營、設計和外文領域，對於外國語文的學習有嚴格的要求。",
+                       "URL" : "http://www.ttu.edu.tw/bin/home.php"
+                       },
+                       
+                       {
+                       "num" : "19",
+                       "area" : "臺北市",
+                       "national" : "私立",
+                       "school" : "中國文化大學",
+                       "instruction" : "中國文化大學為私立綜合大學，簡稱文大，共有12個學院，該校以觀光與體育、藝術、傳播、法律領域表現最為突出。",
+                       "URL" : "http://www.pccu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "20",
+                       "area" : "臺北市",
+                       "national" : "私立",
+                       "school" : "世新大學",
+                       "instruction" : "世新大學為私立綜合大學，簡稱世新，共有4個學院，其新聞傳播科系成立多年，1997年更成立了私校第一、國內唯二的授予博士學位之傳播研究所。",
+                       "URL" : "http://www.shu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "21",
+                       "area" : "臺北市",
+                       "national" : "私立",
+                       "school" : "東吳大學(雙溪校區、城中校區)",
+                       "instruction" : "東吳大學為私立綜合大學，簡稱東吳，共有6個學院，現今學門涵蓋文、理、法、商、外語、社會科學、巨量資料管理等領域。",
+                       "URL" : "http://www.scu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "22",
+                       "area" : "臺北市",
+                       "national" : "私立",
+                       "school" : "康寧大學(臺北校區)",
+                       "instruction" : "康寧大學為私立綜合大學，在臺北校區有2個學院，是康寧專校與康寧醫護暨管理專科學校合倂而成。",
+                       "URL" : "http://web.knjc.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "23",
+                       "area" : "臺北市",
+                       "national" : "私立",
+                       "school" : "銘傳大學(臺北校區)",
+                       "instruction" : "銘傳大學為私立綜合大學，在臺北校區有4個學院，獲得美國密西根州政府通過，成立「銘傳大學美國分校」，是臺灣唯一設立美國分校的大學。",
+                       "URL" : "http://www.mcu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "24",
+                       "area" : "臺北市",
+                       "national" : "私立",
+                       "school" : "中國科技大學(臺北校區)",
+                       "instruction" : "中國科技大學為私立科技大學，簡稱中國科大，在臺北校區有4個學院。",
+                       "URL" : "http://www.cute.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "25",
+                       "area" : "臺北市",
+                       "national" : "私立",
+                       "school" : "中華科技大學",
+                       "instruction" : "中華科技大學為私立科技大學，共有3個學院。",
+                       "URL" : "http://www.cust.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "26",
+                       "area" : "臺北市",
+                       "national" : "私立",
+                       "school" : "實踐大學(臺北校區)",
+                       "instruction" : "實踐大學為私立綜合大學，簡稱實踐，在臺北校區有3個學院，該校以建築、產品、服裝、媒體傳達設計等相關科系著稱。",
+                       "URL" : "http://www2.usc.edu.tw/usc/tw/client/index.asp"
+                       },
+                       
+                       {
+                       "num" : "27",
+                       "area" : "臺北市",
+                       "national" : "私立",
+                       "school" : "臺北城市科技大學",
+                       "instruction" : "臺北城市科技大學為私立科技大學，簡稱城科大，共有3個學院。",
+                       "URL" : "http://www.tpcu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "28",
+                       "area" : "臺北市",
+                       "national" : "私立",
+                       "school" : "德明財經科技大學",
+                       "instruction" : "德明財經科技大學為私立科技大學，簡稱德明科大，共有3個學院。",
+                       "URL" : "http://www.takming.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "29",
+                       "area" : "臺北市",
+                       "national" : "私立",
+                       "school" : "台北海洋科技大學(士林校區)",
+                       "instruction" : "台北海洋科技大學為私立科技大學，簡稱臺北海院，士林校區共有2個學群，為歷史悠久之海事專業學府。",
+                       "URL" : "http://www.tcmt.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "30",
+                       "area" : "臺北市",
+                       "national" : "私立",
+                       "school" : "馬偕醫護管理專科學校(關渡校區)",
+                       "instruction" : "馬偕醫護管理專科學校為私立醫護專科學校，簡稱馬偕醫專，共有7個科系，校董事會有意與馬偕醫學院共同改制或部分合併改制馬偕大學。",
+                       "URL" : "http://www.mkc.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "31",
+                       "area" : "臺北市",
+                       "national" : "私立",
+                       "school" : "臺北醫學大學",
+                       "instruction" : "臺北醫學大學為私立醫護專科學校，簡稱北醫，共有10個學院，其療體系包括臺北醫學大學附設醫院、受臺北市政府委託經營的臺北市立萬芳醫院、以及以BOT方式興建及經營的衛生福利部雙和醫院。",
+                       "URL" : "http://www.tmu.edu.tw/v3/main.php"
+                       },
+                       
+                       {
+                       "num" : "32",
+                       "area" : "臺北市",
+                       "national" : "私立",
+                       "school" : "基督教臺灣浸會神學院",
+                       "instruction" : "基督教臺灣浸會神學院為私立宗教學院，著重基督教神學相關研究。",
+                       "URL" : "http://www.tbts.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "33",
+                       "area" : "基隆市",
+                       "national" : "公立",
+                       "school" : "國立臺灣海洋大學",
+                       "instruction" : "國立臺灣海洋大學為公立綜合大學，簡稱海大，共有7個學院，是臺灣海洋相關領域之最高學府，在國際海洋大學評比中名列前茅。",
+                       "URL" : "http://www.ntou.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "34",
+                       "area" : "基隆市",
+                       "national" : "私立",
+                       "school" : "崇右影藝科技大學",
+                       "instruction" : "崇右影藝科技大學為私立科技大學，簡稱崇右，共有3個學群。",
+                       "URL" : "http://www.cit.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "35",
+                       "area" : "基隆市",
+                       "national" : "私立",
+                       "school" : "經國管理暨健康學院",
+                       "instruction" : "經國管理暨健康學院為私立技術學院，簡稱經國學院，共有３個學群。",
+                       "URL" : "http://www.cku.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "36",
+                       "area" : "新北市",
+                       "national" : "公立",
+                       "school" : "國立臺北大學(三峽校區)",
+                       "instruction" : "國立臺北大學為公立綜合大學，簡稱北大，共有6個學院，以電機、資通訊工程、教育等領域為當前發展重點。",
+                       "URL" : "http://www.ntpu.edu.tw/chinese/"
+                       },
+                       
+                       {
+                       "num" : "37",
+                       "area" : "新北市",
+                       "national" : "公立",
+                       "school" : "國立臺灣師範大學(林口校區)",
+                       "instruction" : "國立臺灣師範大學為公立教育大學，簡稱師大，在林口校區有10個科系，為「國立臺灣師範大學僑生先修部」，輔導僑生完成大學先修教育，結業後分發至臺灣各公私立大學校院就讀。",
+                       "URL" : "http://www.nups.ntnu.edu.tw/intro/super_pages.php?ID=intro7"
+                       },
+                       
+                       
+                       {
+                       "num" : "38",
+                       "area" : "新北市",
+                       "national" : "公立",
+                       "school" : "國立臺灣藝術大學",
+                       "instruction" : "國立臺灣藝術大學為公立藝術大學，簡稱臺藝大，共有5個學院，為臺灣首間以高等藝術教育專業發展之大專。",
+                       "URL" : "http://www.ntua.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "39",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "真理大學(臺北校區)",
+                       "instruction" : "真理大學為私立綜合大學，共有5個學院，為繼承馬偕博士對臺灣文化、教育、醫療的貢獻，於馬偕設立的「牛津學堂」原址籌設而成。",
+                       "URL" : "http://www.au.edu.tw/main.php"
+                       },
+                       
+                       {
+                       "num" : "40",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "淡江大學(淡水校園)",
+                       "instruction" : "淡江大學為私立綜合大學，簡稱淡大，共有8個學院，以校風開放著稱。",
+                       "URL" : "http://www.tku.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "41",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "華梵大學",
+                       "instruction" : "華梵大學為私立綜合大學，簡稱華梵，共有3個學院。",
+                       "URL" : "http://www.hfu.edu.tw/index.php"
+                       },
+                       
+                       {
+                       "num" : "42",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "輔仁大學",
+                       "instruction" : "輔仁大學為私立綜合大學，簡稱輔大，共有11個學院，學門規模為全臺第3，在人文社會科學相對知名，直屬羅馬教廷。",
+                       "URL" : "http://www.fju.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "43",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "馬偕醫學院",
+                       "instruction" : "馬偕醫學院為私立醫學校院，有3個系，擁有1.5公頃的自然森林。入學生均須住宿。",
+                       "URL" : "http://www.mmc.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "44",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "明志科技大學",
+                       "instruction" : "明志科技大學為私立科技大學，簡稱明志科大，共有3個學院。",
+                       "URL" : "http://www.mcut.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "45",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "東南科技大學",
+                       "instruction" : "東南科技大學為私立科技大學，共有4個學院。",
+                       "URL" : "http://www.tnu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "46",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "致理科技大學",
+                       "instruction" : "致理科技大學為私立科技大學，簡稱致理科大，共有3個學院。",
+                       "URL" : "http://portal.chihlee.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "47",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "景文科技大學",
+                       "instruction" : "景文科技大學為私立科技大學，簡稱景文科大，共有4個學院。",
+                       "URL" : "http://www.just.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "48",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "華夏科技大學",
+                       "instruction" : "華夏科技大學為私立科技大學，簡稱華夏科大，共有3個學院。",
+                       "URL" : "http://www.hwh.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "49",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "聖約翰科技大學",
+                       "instruction" : "聖約翰科技大學為私立科技大學，共有3個學院。",
+                       "URL" : "http://www.sju.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "50",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "醒吾科技大學",
+                       "instruction" : "醒吾科技大學為私立科技大學，簡稱醒吾科大，共有4個學院。",
+                       "URL" : "http://www.hwu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "51",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "亞東技術學院",
+                       "instruction" : "亞東技術學院為私立技術學院，簡稱亞東學院，共有3個學群。",
+                       "URL" : "http://www.oit.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "52",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "台北海洋科技大學(淡水校區)",
+                       "instruction" : "台北海洋科技大學為私立科技大學，簡稱台北海院，淡水校區共有2個學群，為歷史悠久之海事專業學府，並長期配合政府發展海洋政策。",
+                       "URL" : "http://www.tcmt.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "53",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "宏國德霖科技大學",
+                       "instruction" : "宏國德霖科技大學為私立科技大學，共有4個學群。",
+                       "URL" : "http://w3.dlit.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "54",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "黎明技術學院",
+                       "instruction" : "黎明技術學院為私立技術學院，簡稱黎明技院，共有3個學群。",
+                       "URL" : "http://www.lit.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "55",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "耕莘健康管理專科學校(新店校區)",
+                       "instruction" : "耕莘健康管理專科學校為私立醫護專科學校，簡稱耕莘健專，在新店校區有3個科。",
+                       "URL" : "http://www.ctcn.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "56",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "馬偕醫護管理專科學校(三芝校區)",
+                       "instruction" : "馬偕醫護管理專科學院為私立醫護專科學校，簡稱馬偕醫專，共有7個科系，校董事會有意與馬偕醫學院共同改制或部分合併改制馬偕大學。",
+                       "URL" : "http://www2.mkc.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "57",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "臺北基督學院",
+                       "instruction" : "臺北基督學院為私立宗教學院，簡稱北基學院，著重基督教神學相關研究。",
+                       "URL" : "http://www.cct.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "58",
+                       "area" : "新北市",
+                       "national" : "私立",
+                       "school" : "法鼓文理學院",
+                       "instruction" : "法鼓文理學院為私立宗教學院，簡稱法鼓學院，著重中華佛學相關研究，另有人文社會相關碩士學位學程。",
+                       "URL" : "http://www.ddbc.edu.tw/zh/"
+                       },
+                       
+                       {
+                       "num" : "59",
+                       "area" : "宜蘭縣",
+                       "national" : "公立",
+                       "school" : "國立宜蘭大學",
+                       "instruction" : "國立宜蘭大學為公立綜合大學，簡稱宜大，共有4個學院，擁有實驗林場並持續開發校地。",
+                       "URL" : "https://www.niu.edu.tw"
+                       },
+                       
+                       {
+                       "num" : "60",
+                       "area" : "宜蘭縣",
+                       "national" : "私立",
+                       "school" : "佛光大學",
+                       "instruction" : "佛光大學為私立綜合大學，簡稱佛大，共有5個學院。",
+                       "URL" : "http://www.fgu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "61",
+                       "area" : "宜蘭縣",
+                       "national" : "私立",
+                       "school" : "淡江大學(蘭陽校園)",
+                       "instruction" : "淡江大學為私立綜合大學，簡稱淡大，蘭陽校園共有1個學院，以全英語授課，並採大三學生全部至指定姊妹校出國留學的教學設計，師生同住的住宿學院，以強化生活及課業輔導，期培育全方位型菁英人才。",
+                       "URL" : "http://www.lanyang.tku.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "62",
+                       "area" : "宜蘭縣",
+                       "national" : "私立",
+                       "school" : "蘭陽技術學院",
+                       "instruction" : "蘭陽技術學院為私立技術學院，簡稱蘭院，共有７個系。",
+                       "URL" : "http://www.fit.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "63",
+                       "area" : "宜蘭縣",
+                       "national" : "私立",
+                       "school" : "耕莘健康管理專科學校(宜蘭校區)",
+                       "instruction" : "耕莘健康管理專科學校為私立醫護專科學校，簡稱耕莘健專，在宜蘭校區有3個科。",
+                       "URL" : "http://www.ctcn.edu.tw/ilan/"
+                       },
+                       
+                       {
+                       "num" : "64",
+                       "area" : "宜蘭縣",
+                       "national" : "私立",
+                       "school" : "聖母醫護管理專科學校",
+                       "instruction" : "聖母醫護管理專科學校為私立醫護專科學校，共有6個科。",
+                       "URL" : "http://www.smc.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "65",
+                       "area" : "新竹市",
+                       "national" : "公立",
+                       "school" : "國立交通大學(光復校區、博愛校區)",
+                       "instruction" : "國立交通大學為公立綜合大學，簡稱交大，共有11個學院，主要發展領域為電子、通訊及光電等。",
+                       "URL" : "http://www.nctu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "66",
+                       "area" : "新竹市",
+                       "national" : "公立",
+                       "school" : "國立清華大學",
+                       "instruction" : "國立清華大學為公立綜合大學，簡稱清大，與位於北京的清華大學淵源深厚，有許多兩岸學術及文化交流。清華大學與新竹教育大學於105年11月1日正式合併，合計共有9個學院與合校過渡單位，合併後將提高竹師教育學院在繁星推薦、個人申請管道的學測門檻。",
+                       "URL" : "http://www.nthu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "67",
+                       "area" : "新竹市",
+                       "national" : "私立",
+                       "school" : "中華大學",
+                       "instruction" : "中華大學為私立綜合大學，共有6個學院。",
+                       "URL" : "http://www.chu.edu.tw/bin/home.php"
+                       },
+                       
+                       {
+                       "num" : "68",
+                       "area" : "新竹市",
+                       "national" : "私立",
+                       "school" : "玄奘大學",
+                       "instruction" : "玄奘大學為私立綜合大學，共有4個學院。",
+                       "URL" : "http://www.hcu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "69",
+                       "area" : "新竹市",
+                       "national" : "私立",
+                       "school" : "元培醫事科技大學",
+                       "instruction" : "元培醫事科技大學為私立科技大學，共有3個學院。",
+                       "URL" : "http://www.ypu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "70",
+                       "area" : "新竹縣",
+                       "national" : "公立",
+                       "school" : "國立交通大學(六家校區)",
+                       "instruction" : "國立交通大學為公立綜合大學，簡稱交大，在六家校區有1個科系，目前為「客家文化學院」為主要的使用單位。",
+                       "URL" : "http://hakka.nctu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "71",
+                       "area" : "新竹縣",
+                       "national" : "私立",
+                       "school" : "大華科技大學",
+                       "instruction" : "大華科技大學為私立科技大學，共有3個學院。",
+                       "URL" : "http://www.tust.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "72",
+                       "area" : "新竹縣",
+                       "national" : "私立",
+                       "school" : "中國科技大學(新竹校區)",
+                       "instruction" : "中國科技大學為私立科技大學，簡稱中國科大，在新竹校區有3個學院。",
+                       "URL" : "http://hcc.cute.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "73",
+                       "area" : "新竹縣",
+                       "national" : "私立",
+                       "school" : "中華科技大學(新竹校區)",
+                       "instruction" : "中華科技大學為私立科技大學，在新竹校區有5個科系。",
+                       "URL" : "http://www.hc.cust.edu.tw/www/index.html"
+                       },
+                       
+                       {
+                       "num" : "74",
+                       "area" : "新竹縣",
+                       "national" : "私立",
+                       "school" : "明新科技大學",
+                       "instruction" : "明新科技大學為私立科技大學，共有4個學院，學校因當地時常風大之緣故，亦被稱為風崗大學。",
+                       "URL" : "http://www.must.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "75",
+                       "area" : "桃園市",
+                       "national" : "公立",
+                       "school" : "國立中央大學",
+                       "instruction" : "國立中央大學為公立綜合大學，簡稱中央，共有8個學院，屬研究型國立大學。",
+                       "URL" : "http://www.ncu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "76",
+                       "area" : "桃園市",
+                       "national" : "公立",
+                       "school" : "國立體育大學",
+                       "instruction" : "國立體育大學為公立體育大學，簡稱國立體大，共有4個學院，是專門培訓國內體育、運動相關人才的大學。",
+                       "URL" : "http://www.ntsu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "77",
+                       "area" : "桃園市",
+                       "national" : "公立",
+                       "school" : "中央警察大學",
+                       "instruction" : "中央警察大學為公立軍警院校，共有2個學院，是中華民國培養警察幹部、消防人員的最高學府。",
+                       "URL" : "http://www.cpu.edu.tw/bin/home.php"
+                       },
+                       
+                       {
+                       "num" : "78",
+                       "area" : "桃園市",
+                       "national" : "公立",
+                       "school" : "國防大學(校本部)",
+                       "instruction" : "國防大學為公立軍警院校，共有４個學院，是中華民國規模最大的軍事專門學校、亦為首要之軍事學府。",
+                       "URL" : "http://www.ndu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "79",
+                       "area" : "桃園市",
+                       "national" : "公立",
+                       "school" : "陸軍專科學校",
+                       "instruction" : "陸軍專科學校為公立軍警院校，簡稱陸專，共有9個科系，目標是提升中華民國國軍士官幹部的學習能力與學歷。",
+                       "URL" : "http://www.aaroc.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "80",
+                       "area" : "桃園市",
+                       "national" : "私立",
+                       "school" : "中原大學",
+                       "instruction" : "中原大學為私立綜合大學，簡稱中原，共有7個學院。",
+                       "URL" : "http://www.cycu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "81",
+                       "area" : "桃園市",
+                       "national" : "私立",
+                       "school" : "元智大學",
+                       "instruction" : "元智大學為私立綜合大學，共有5個學院，原名元智工學院，其校園建築多以清水建築工法興建，各有特色。",
+                       "URL" : "http://www.yzu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "82",
+                       "area" : "桃園市",
+                       "national" : "私立",
+                       "school" : "長庚大學",
+                       "instruction" : "長庚大學為私立綜合大學，共有3個學院。",
+                       "URL" : "http://www.cgu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "83",
+                       "area" : "桃園市",
+                       "national" : "私立",
+                       "school" : "開南大學",
+                       "instruction" : "開南大學為私立綜合大學，簡稱開南，共有5個學院，鄰近桃園國際機場。",
+                       "URL" : "http://www.knu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "84",
+                       "area" : "桃園市",
+                       "national" : "私立",
+                       "school" : "銘傳大學(桃園校區)",
+                       "instruction" : "銘傳大學為私立綜合大學，在桃園校區有6個學院，該校正式獲得美國密西根州政府通過，成立「銘傳大學美國分校」，是臺灣唯一設立美國分校的大學。",
+                       "URL" : "http://www.mcu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "85",
+                       "area" : "桃園市",
+                       "national" : "私立",
+                       "school" : "長庚科技大學(林口校區)",
+                       "instruction" : "長庚科技大學為私立科技大學，簡稱長庚科大，在林口校區有2個學院，林口校區為校本部。",
+                       "URL" : "http://www.cgust.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "86",
+                       "area" : "桃園市",
+                       "national" : "私立",
+                       "school" : "健行科技大學",
+                       "instruction" : "健行科技大學為私立科技大學，簡稱健行科大，共有4個學院。",
+                       "URL" : "http://www.uch.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "87",
+                       "area" : "桃園市",
+                       "national" : "私立",
+                       "school" : "萬能科技大學",
+                       "instruction" : "萬能科技大學為私立科技大學，共有3個學院。",
+                       "URL" : "http://www.vnu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "88",
+                       "area" : "桃園市",
+                       "national" : "私立",
+                       "school" : "龍華科技大學",
+                       "instruction" : "龍華科技大學為私立科技大學，簡稱龍華科大，共有3個學院。",
+                       "URL" : "http://www.lhu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "89",
+                       "area" : "桃園市",
+                       "national" : "私立",
+                       "school" : "桃園創新技術學院／南亞技術學院",
+                       "instruction" : "桃園創新技術學院為私立技術學院，共有4個學群。",
+                       "URL" : "http://www.tiit.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "90",
+                       "area" : "桃園市",
+                       "national" : "私立",
+                       "school" : "新生醫護管理專科學校",
+                       "instruction" : "新生醫護管理專科學校為私立醫護專科學校，簡稱新生醫專，共有12個科。",
+                       "URL" : "http://www.web.hsc.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "91",
+                       "area" : "苗栗縣",
+                       "national" : "公立",
+                       "school" : "國立聯合大學",
+                       "instruction" : "國立聯合大學為公立綜合大學，簡稱聯大，現有二坪山和八甲兩校區，共有6個學院。",
+                       "URL" : "http://www.nuu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "92",
+                       "area" : "苗栗縣",
+                       "national" : "私立",
+                       "school" : "育達科技大學",
+                       "instruction" : "育達科技大學為私立科技大學，共有3個學院。",
+                       "URL" : "http://www.ydu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "93",
+                       "area" : "苗栗縣",
+                       "national" : "私立",
+                       "school" : "亞太創意技術學院",
+                       "instruction" : "亞太創意技術學院為私立技術學院，簡稱亞太學院，共有13個系。",
+                       "URL" : "http://www.apic.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "94",
+                       "area" : "苗栗縣",
+                       "national" : "私立",
+                       "school" : "仁德醫護管理專科學校",
+                       "instruction" : "仁德醫護管理專科學校為私立醫護專科學校，簡稱仁德醫專，共有12個科。",
+                       "URL" : "http://www.jente.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "95",
+                       "area" : "臺中市",
+                       "national" : "公立",
+                       "school" : "國立中興大學",
+                       "instruction" : "國立中興大學為公立綜合大學，簡稱興大，共有8個學院，該校以農業科學、農業經濟學、獸醫、生命科學、轉譯醫學、生醫工程、生物科技、綠色科技等領域見長。",
+                       "URL" : "http://www.nchu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "96",
+                       "area" : "臺中市",
+                       "national" : "公立",
+                       "school" : "國立臺中教育大學",
+                       "instruction" : "國立臺中教育大學為公立教育大學，簡稱中教大，共有4個學院，有附設實驗小學。",
+                       "URL" : "http://www.ntcu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "97",
+                       "area" : "臺中市",
+                       "national" : "公立",
+                       "school" : "國立臺灣體育運動大學",
+                       "instruction" : "國立臺灣體育運動大學為公立體育大學，簡稱臺體，共有3個學院。",
+                       "URL" : "http://www.ntupes.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "98",
+                       "area" : "臺中市",
+                       "national" : "公立",
+                       "school" : "國立勤益科技大學",
+                       "instruction" : "國立勤益科技大學為公立科技大學，簡稱勤科大，共有4個學院。",
+                       "URL" : "http://www.ncut.edu.tw"
+                       },
+                       
+                       
+                       {
+                       "num" : "99",
+                       "area" : "臺中市",
+                       "national" : "公立",
+                       "school" : "國立臺中科技大學",
+                       "instruction" : "國立臺中科技大學為公立科技大學，簡稱臺中科大，共有5個學院，原國立臺中技術學院，2011年與「臺中護專」合併。",
+                       "URL" : "http://www.nutc.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "100",
+                       "area" : "臺中市",
+                       "national" : "私立",
+                       "school" : "亞洲大學",
+                       "instruction" : "亞洲大學為私立綜合大學，簡稱亞大，共有6個學院，校內另有亞洲現代美術館與亞洲大學附屬醫院。",
+                       "URL" : "http://www.asia.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "101",
+                       "area" : "臺中市",
+                       "national" : "私立",
+                       "school" : "東海大學",
+                       "instruction" : "東海大學為私立綜合大學，簡稱東大，共有9個學院，擁有創造性與實驗性的開創精神。",
+                       "URL" : "http://www.thu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "102",
+                       "area" : "臺中市",
+                       "national" : "私立",
+                       "school" : "逢甲大學",
+                       "instruction" : "逢甲大學為私立綜合大學，簡稱逢大，共有10個學院。",
+                       "URL" : "http://www.fcu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "103",
+                       "area" : "臺中市",
+                       "national" : "私立",
+                       "school" : "靜宜大學",
+                       "instruction" : "靜宜大學為私立綜合大學，共有6個學院，原為女子大學，1993年起開放男性入學。",
+                       "URL" : "http://www.pu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "104",
+                       "area" : "臺中市",
+                       "national" : "私立",
+                       "school" : "中山醫學大學",
+                       "instruction" : "中山醫學大學為私立醫學校院，簡稱中山醫大，共有5個學院，附設醫院分為大慶院區、文心院區及中興分院等三大院區，其中大慶院區規模最大並緊鄰校本部，靠近臺鐵大慶車站。",
+                       "URL" : "http://www.csmu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "105",
+                       "area" : "臺中市",
+                       "national" : "私立",
+                       "school" : "中國醫藥大學(臺中校區)",
+                       "instruction" : "中國醫藥大學為私立醫學校院，簡稱中醫大，在臺中校區有6個學院，讓學子學習西洋現代科學方法來改進中醫藥，使學子成為中西醫學兼備的人才而創立。",
+                       "URL" : "http://www.cmu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "106",
+                       "area" : "臺中市",
+                       "national" : "私立",
+                       "school" : "中臺科技大學",
+                       "instruction" : "中臺科技大學為私立科技大學，簡稱中臺科大，共有4個學院。",
+                       "URL" : "http://www.ctust.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "107",
+                       "area" : "臺中市",
+                       "national" : "私立",
+                       "school" : "弘光科技大學",
+                       "instruction" : "弘光科技大學為私立科技大學，共有5個學院。",
+                       "URL" : "http://www.hk.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "108",
+                       "area" : "臺中市",
+                       "national" : "私立",
+                       "school" : "修平科技大學",
+                       "instruction" : "修平科技大學為私立科技大學，簡稱修平科大，共有3個學院。",
+                       "URL" : "http://www.hust.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "109",
+                       "area" : "臺中市",
+                       "national" : "私立",
+                       "school" : "朝陽科技大學",
+                       "instruction" : "朝陽科技大學為私立科技大學，簡稱朝陽科大，共有5個學院，在資訊、電子領域表現突出。",
+                       "URL" : "http://web.cyut.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "110",
+                       "area" : "臺中市",
+                       "national" : "私立",
+                       "school" : "僑光科技大學",
+                       "instruction" : "僑光科技大學為私立科技大學，簡稱僑光科大，共有3個學院。",
+                       "URL" : "http://www.ocu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "111",
+                       "area" : "臺中市",
+                       "national" : "私立",
+                       "school" : "嶺東科技大學",
+                       "instruction" : "嶺東科技大學為私立科技大學，簡稱嶺東科大，共有5個學院。",
+                       "URL" : "http://www.ltu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "112",
+                       "area" : "彰化縣",
+                       "national" : "公立",
+                       "school" : "國立彰化師範大學",
+                       "instruction" : "國立彰化師範大學為公立教育大學，簡稱彰化師大，共有7個學院。",
+                       "URL" : "http://www.ncue.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "113",
+                       "area" : "彰化縣",
+                       "national" : "私立",
+                       "school" : "大葉大學",
+                       "instruction" : "大葉大學為私立綜合大學，簡稱大葉，共有7個學院。",
+                       "URL" : "http://www.dyu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "114",
+                       "area" : "彰化縣",
+                       "national" : "私立",
+                       "school" : "明道大學",
+                       "instruction" : "明道大學為私立綜合大學，簡稱大葉，共有5個學院，前身為明道管理學院，校內並設有明道電視臺。",
+                       "URL" : "http://www.mdu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "115",
+                       "area" : "彰化縣",
+                       "national" : "私立",
+                       "school" : "中州科技大學",
+                       "instruction" : "中州科技大學為私立科技大學，共有3個學院。",
+                       "URL" : "http://www.ccut.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "116",
+                       "area" : "彰化縣",
+                       "national" : "私立",
+                       "school" : "建國科技大學",
+                       "instruction" : "建國科技大學為私立科技大學，共有4個學院。",
+                       "URL" : "http://www.ctu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "117",
+                       "area" : "南投縣",
+                       "national" : "公立",
+                       "school" : "國立暨南國際大學",
+                       "instruction" : "國立暨南國際大學為公立綜合大學，簡稱暨大，共有4個學院，是華僑教育史上佔有獨特地位的學校。",
+                       "URL" : "http://www.ncnu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "118",
+                       "area" : "南投縣",
+                       "national" : "私立",
+                       "school" : "南開科技大學",
+                       "instruction" : "南開科技大學為私立科技大學，共有4個學院。",
+                       "URL" : "http://www.nkut.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "119",
+                       "area" : "嘉義市",
+                       "national" : "公立",
+                       "school" : "國立嘉義大學(蘭潭校區、林森校區、新民校區)",
+                       "instruction" : "國立嘉義大學為公立綜合大學，簡稱嘉大，共有7個學院，有附設動物醫院、附設實驗小學等附屬機構。",
+                       "URL" : "http://www.ncyu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "120",
+                       "area" : "嘉義市",
+                       "national" : "私立",
+                       "school" : "大同技術學院(嘉義校區)",
+                       "instruction" : "大同技術學院為私立技術學院，簡稱大同學院，有4學群。",
+                       "URL" : "http://www.ttc.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "121",
+                       "area" : "嘉義市",
+                       "national" : "私立",
+                       "school" : "崇仁醫護管理專科學校(嘉義校區)",
+                       "instruction" : "崇仁醫護管理專科學校為私立醫護專科學校，有5個科系。",
+                       "URL" : "http://www.cjc.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "122",
+                       "area" : "嘉義縣",
+                       "national" : "公立",
+                       "school" : "國立中正大學",
+                       "instruction" : "國立中正大學為公立綜合大學，簡稱中正，共有7個學院，為臺灣中南部最具規模者，該校並以社會科學、法學、電腦科學等領域見長。",
+                       "URL" : "http://www.ccu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "123",
+                       "area" : "嘉義縣",
+                       "national" : "公立",
+                       "school" : "國立嘉義大學(民雄校區)",
+                       "instruction" : "國立嘉義大學為公立綜合大學，簡稱嘉大，有附設動物醫院、附設實驗小學等附屬機構，是雲嘉地區最具歷史的綜合大學。",
+                       "URL" : "http://www.ncyu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "124",
+                       "area" : "嘉義縣",
+                       "national" : "私立",
+                       "school" : "南華大學",
+                       "instruction" : "南華大學為私立綜合大學，簡稱嘉大，共有5個學院，由佛光山創辦。",
+                       "URL" : "http://www.nhu.edu.tw/main.htm"
+                       },
+                       
+                       {
+                       "num" : "125",
+                       "area" : "嘉義縣",
+                       "national" : "私立",
+                       "school" : "吳鳳科技大學",
+                       "instruction" : "吳鳳科技大學為私立科技大學，簡稱吳鳳科大，共３個學院。",
+                       "URL" : "http://www.wfu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "126",
+                       "area" : "嘉義縣",
+                       "national" : "私立",
+                       "school" : "長庚科技大學(嘉義校區)",
+                       "instruction" : "長庚科技大學為私立科技大學，簡稱長庚科大，在嘉義校區有2個學院，嘉義校區為配合嘉義縣政府的「嘉義醫療專用區」計畫而設立。",
+                       "URL" : "http://cywww.cgust.edu.tw/bin/home.php"
+                       },
+                       
+                       {
+                       "num" : "127",
+                       "area" : "嘉義縣",
+                       "national" : "私立",
+                       "school" : "大同技術學院(太保校區)",
+                       "instruction" : "大同技術學院為私立技術學院，簡稱大同學院，有4學群。",
+                       "URL" : "http://www.ttc.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "128",
+                       "area" : "嘉義縣",
+                       "national" : "私立",
+                       "school" : "崇仁醫護管理專科學校(大林校區)",
+                       "instruction" : "崇仁醫護管理專科學校為私立醫護專科學校，有5個科。",
+                       "URL" : "http://www.cjc.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "129",
+                       "area" : "嘉義縣",
+                       "national" : "私立",
+                       "school" : "稻江科技暨管理學院",
+                       "instruction" : "稻江科技暨管理學院為私立管理學院，3個學群。",
+                       "URL" : "http://www.toko.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "130",
+                       "area" : "雲林縣",
+                       "national" : "公立",
+                       "school" : "國立虎尾科技大學",
+                       "instruction" : "國立虎尾科技大學為公立科技大學，簡稱虎科大，共有4個學院，屬教學型大學，主要專攻於技專校院產學合作上，近年來在專利研發方面有所斬獲。",
+                       "URL" : "http://www.nfu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "131",
+                       "area" : "雲林縣",
+                       "national" : "公立",
+                       "school" : "國立雲林科技大學",
+                       "instruction" : "國立雲林科技大學為公立科技大學，簡稱雲科，共有4個學院，學術研究風氣興盛，與鄰近的工業園區等相關產業，都有密切合作。",
+                       "URL" : "http://www.yuntech.edu.tw/"
+                       },
+                       
+                       
+                       {
+                       "num" : "132",
+                       "area" : "雲林縣",
+                       "national" : "私立",
+                       "school" : "中國醫藥大學(北港校區)",
+                       "instruction" : "中國醫藥大學為私立醫學校院，簡稱中醫大，在北港校區有3個學院，包括本校北港附設醫院（又名媽祖醫院或中正醫學中心)。",
+                       "URL" : "http://cmubnp.cmu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "133",
+                       "area" : "雲林縣",
+                       "national" : "私立",
+                       "school" : "中華科技大學(雲林校區)",
+                       "instruction" : "中華科技大學為私立科技大學，共有4個學院。",
+                       "URL" : "http://www.yl.cust.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "134",
+                       "area" : "雲林縣",
+                       "national" : "私立",
+                       "school" : "環球科技大學",
+                       "instruction" : "環球科技大學為私立科技大學，簡稱環球科大，共有4個學院。",
+                       "URL" : "http://www.twu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "135",
+                       "area" : "臺南市",
+                       "national" : "公立",
+                       "school" : "國立交通大學(臺南校區)",
+                       "instruction" : "國立交通大學為公立綜合大學，簡稱交大，有光電學院碩士、博士班在臺南校區學習。",
+                       "URL" : "http://www.cop.nctu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "136",
+                       "area" : "臺南市",
+                       "national" : "公立",
+                       "school" : "國立成功大學",
+                       "instruction" : "國立成功大學為公立綜合大學，簡稱成大，共有9個學院，為研究型大學，學門規模全臺第2，為臺灣南部的學術科研中心、醫學中心、物理及光電系統科技中心、奈米研究中心、航太中心、區域網路中心及臺灣語文測驗中心。",
+                       "URL" : "http://web.ncku.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "137",
+                       "area" : "臺南市",
+                       "national" : "公立",
+                       "school" : "國立臺南大學",
+                       "instruction" : "國立臺南大學為公立綜合大學，簡稱南大，共有6個學院，附屬啟聰學校、實驗小學、高級中學。",
+                       "URL" : "http://www.nutn.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "138",
+                       "area" : "臺南市",
+                       "national" : "公立",
+                       "school" : "國立臺南藝術大學",
+                       "instruction" : "國立臺南藝術大學為公立藝術大學，簡稱南藝大，共有4個學院，以高階之研究所階段藝術教育為主軸，並發展大學部及七年一貫制之教學單位。",
+                       "URL" : "http://www.tnnua.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "139",
+                       "area" : "臺南市",
+                       "national" : "公立",
+                       "school" : "國立臺南護理專科學校",
+                       "instruction" : "國立臺南護理專科學校為私立專科學校，簡稱南護，共有3個科。",
+                       "URL" : "http://www.ntin.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "140",
+                       "area" : "臺南市",
+                       "national" : "私立",
+                       "school" : "長榮大學",
+                       "instruction" : "長榮大學為私立綜合大學，簡稱長大，共有6個學院。",
+                       "URL" : "http://www.cjcu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "141",
+                       "area" : "臺南市",
+                       "national" : "私立",
+                       "school" : "真理大學(臺南校區)",
+                       "instruction" : "真理大學為私立綜合大學，臺南校區共有3個學院，未來將轉型為創新研究發展技能與學術中心。",
+                       "URL" : "http://mt.mtwww.mt.au.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "142",
+                       "area" : "臺南市",
+                       "national" : "私立",
+                       "school" : "康寧大學(臺南校區)",
+                       "instruction" : "康寧大學為私立綜合大學，在臺南校區有2個學院，與康寧醫護暨管理專科學校合倂，是臺灣近年來第一個私立和私立大學合倂成功的案例。",
+                       "URL" : "http://www.ukn.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "143",
+                       "area" : "臺南市",
+                       "national" : "私立",
+                       "school" : "臺灣首府大學",
+                       "instruction" : "臺灣首府大學為私立綜合大學，簡稱首府，共有3個學院，前身為致遠管理學院，是全國唯一擁有五星級教學飯店的學校。",
+                       "URL" : "http://web.tsu.edu.tw/bin/home.php"
+                       },
+                       
+                       {
+                       "num" : "144",
+                       "area" : "臺南市",
+                       "national" : "私立",
+                       "school" : "中華醫事科技大學",
+                       "instruction" : "中華醫事科技大學為私立科技大學，簡稱華醫科大，共有3個學院。",
+                       "URL" : "http://www.hwai.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "145",
+                       "area" : "臺南市",
+                       "national" : "私立",
+                       "school" : "南榮科技大學",
+                       "instruction" : "南榮科技大學為私立科技大學，簡稱南榮科大，共有3個學院。",
+                       "URL" : "http://www.nju.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "146",
+                       "area" : "臺南市",
+                       "national" : "私立",
+                       "school" : "南臺科技大學",
+                       "instruction" : "南臺科技大學為私立科技大學，簡稱南科大，共有4個學院。",
+                       "URL" : "http://www.stust.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "147",
+                       "area" : "臺南市",
+                       "national" : "私立",
+                       "school" : "崑山科技大學",
+                       "instruction" : "崑山科技大學為私立科技大學，簡稱崑大，共有6個學院。",
+                       "URL" : "http://www.ksu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "148",
+                       "area" : "臺南市",
+                       "national" : "私立",
+                       "school" : "嘉南藥理大學",
+                       "instruction" : "嘉南藥理大學為私立科技大學，簡稱嘉南藥大，共有5個學院，為培養從事醫藥、衛生及管理等健康資訊科學專業人才而設。",
+                       "URL" : "http://www.cnu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "149",
+                       "area" : "臺南市",
+                       "national" : "私立",
+                       "school" : "臺南應用科技大學",
+                       "instruction" : "臺南應用科技大學為私立科技大學，簡稱南應，共有5個學院，在全臺灣服飾設計相關校系中，其服飾設計管理系是唯一設有旗袍製作課程的學校。",
+                       "URL" : "http://www.tut.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "150",
+                       "area" : "臺南市",
+                       "national" : "私立",
+                       "school" : "遠東科技大學",
+                       "instruction" : "遠東科技大學為私立科技大學，簡稱遠東科大。",
+                       "URL" : "http://www.feu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "151",
+                       "area" : "臺南市",
+                       "national" : "私立",
+                       "school" : "敏惠醫護管理專科學校",
+                       "instruction" : "敏惠醫護管理專科學校為私立醫護專科學校，共有4個科。",
+                       "URL" : "http://www.mhchcm.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "152",
+                       "area" : "臺南市",
+                       "national" : "私立",
+                       "school" : "中信金融管理學院",
+                       "instruction" : "中信金融管理學院為私立管理學院，共有3個系，以培育人才為中國信託未來所用。",
+                       "URL" : "http://www.ctbc.edu.tw/"
+                       },
+                       
+                       
+                       {
+                       "num" : "153",
+                       "area" : "高雄市",
+                       "national" : "公立",
+                       "school" : "國立中山大學",
+                       "instruction" : "國立中山大學為公立綜合大學，共有6個學院，其海科院、管理學院分屬全臺龍頭、3強之列，並擁有南臺灣最初的社會學系及社科院。",
+                       "URL" : "http://www.nsysu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "154",
+                       "area" : "高雄市",
+                       "national" : "公立",
+                       "school" : "國立高雄大學",
+                       "instruction" : "國立高雄大學為公立綜合大學，簡稱高大，共有5個學院，為培養高雄中小產業轉型升級與支援傳統產業外移所需之技術和管理人才所設立。",
+                       "URL" : "http://www.nuk.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "155",
+                       "area" : "高雄市",
+                       "national" : "公立",
+                       "school" : "國立高雄師範大學(和平校區、燕巢校區)",
+                       "instruction" : "國立高雄大學為公立教育大學，簡稱高師大，共有5個學院，以培育中等學校師資人才為目標，在人文學科、自然科學、教育學、藝術與工程學擁有深厚的學術研究基礎及影響力。",
+                       "URL" : "http://www.nknu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "156",
+                       "area" : "高雄市",
+                       "national" : "公立",
+                       "school" : "國立高雄海洋科技大學",
+                       "instruction" : "國立高雄海洋科技大學為公立科技大學，簡稱高海科大，共有４個學院，是一所位於中華民國高雄市以海事及水產為主力發展為特色的科技大學。",
+                       "URL" : "http://www.nkmu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "157",
+                       "area" : "高雄市",
+                       "national" : "公立",
+                       "school" : "國立高雄第一科技大學(國立高雄科技大學)",
+                       "instruction" : "國立高雄第一科技大學為公立科技大學，簡稱高雄科大，共有5個學院，專任教師96％具有國內外博士學位，師資博士比率全國科大排名第一。",
+                       "URL" : "http://www.nkfust.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "158",
+                       "area" : "高雄市",
+                       "national" : "公立",
+                       "school" : "國立高雄餐旅大學",
+                       "instruction" : "國立高雄餐旅大學為公立科技大學，簡稱高餐大，共有4個學院，為臺灣唯一的國立餐旅大專院校。",
+                       "URL" : "http://www.nkuht.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "159",
+                       "area" : "高雄市",
+                       "national" : "公立",
+                       "school" : "國立高雄應用科技大學",
+                       "instruction" : "國立高雄應用科技大學為公立科技大學，簡稱高應大。",
+                       "URL" : "http://www.kuas.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "160",
+                       "area" : "高雄市",
+                       "national" : "公立",
+                       "school" : "空軍航空技術學院",
+                       "instruction" : "中華民國空軍軍官學校為公立軍警院校，共有2個科部，為中華民國軍事院校中唯一培訓航空專業人才的技勤幹部學院。",
+                       "URL" : "http://www.afats.khc.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "161",
+                       "area" : "高雄市",
+                       "national" : "公立",
+                       "school" : "中華民國海軍軍官學校",
+                       "instruction" : "中華民國海軍軍官學校為公立軍警院校，簡稱海軍官校，共有2個科部，是一所專門培育中華民國海軍軍官的軍校。",
+                       "URL" : "http://www.cna.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "162",
+                       "area" : "高雄市",
+                       "national" : "私立",
+                       "school" : "義守大學",
+                       "instruction" : "義守大學為私立綜合大學，共有9個學院。",
+                       "URL" : "http://www.isu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "163",
+                       "area" : "高雄市",
+                       "national" : "私立",
+                       "school" : "高雄醫學大學",
+                       "instruction" : "高雄醫學大學為私立醫學校院，簡稱高雄醫大，共有7個學院，是第一所臺灣人創建的醫學院與私立學院。",
+                       "URL" : "http://www2.kmu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "164",
+                       "area" : "高雄市",
+                       "national" : "私立",
+                       "school" : "文藻外語大學",
+                       "instruction" : "文藻外語大學為私立科技大學，簡稱文藻，共有3個學院。",
+                       "URL" : "http://www.wzu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "165",
+                       "area" : "高雄市",
+                       "national" : "私立",
+                       "school" : "正修科技大學",
+                       "instruction" : "正修科技大學為私立科技大學，簡稱高師大，共有3個學院。",
+                       "URL" : "http://www.csu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "166",
+                       "area" : "高雄市",
+                       "national" : "私立",
+                       "school" : "高苑科技大學",
+                       "instruction" : "高苑科技大學為私立科技大學，簡稱高苑科大，共有4個學院。",
+                       "URL" : "http://www.kyu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "167",
+                       "area" : "高雄市",
+                       "national" : "私立",
+                       "school" : "實踐大學(高雄校區)",
+                       "instruction" : "實踐大學為私立綜合大學，簡稱實踐，在高雄校區有2個學院，該校以建築、產品、服裝、媒體傳達設計等相關科系著稱。",
+                       "URL" : "http://www.kh.usc.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "168",
+                       "area" : "高雄市",
+                       "national" : "私立",
+                       "school" : "輔英科技大學",
+                       "instruction" : "輔英科技大學為私立科技大學，簡稱高苑科大，共有4個學院。",
+                       "URL" : "http://web.fy.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "169",
+                       "area" : "高雄市",
+                       "national" : "私立",
+                       "school" : "樹德科技大學",
+                       "instruction" : "樹德科技大學為私立科技大學，簡稱樹德科大，共有4個學院。",
+                       "URL" : "http://www.stu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "170",
+                       "area" : "高雄市",
+                       "national" : "私立",
+                       "school" : "和春技術學院",
+                       "instruction" : "和春技術學院為私立技術學院，簡稱和春學院，共有4個學群。",
+                       "URL" : "http://www.fjtc.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "171",
+                       "area" : "高雄市",
+                       "national" : "私立",
+                       "school" : "東方設計學院",
+                       "instruction" : "東方設計學院為私立技術學院，簡稱東方設計學院，共有3個學群。",
+                       "URL" : "http://www.tf.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "172",
+                       "area" : "高雄市",
+                       "national" : "私立",
+                       "school" : "育英醫護管理專科學校",
+                       "instruction" : "育英醫護管理專科學校為私立醫護專科學校，簡稱育英護專，共有3個科。",
+                       "URL" : "http://www.yuhing.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "173",
+                       "area" : "高雄市",
+                       "national" : "私立",
+                       "school" : "高美醫護管理專科學校",
+                       "instruction" : "高美醫護管理專科學校為私立醫護專科學校，共有4個科。",
+                       "URL" : "http://www.kmvs.khc.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "174",
+                       "area" : "高雄市",
+                       "national" : "私立",
+                       "school" : "樹人醫護管理專科學校",
+                       "instruction" : "樹人醫護管理專科學校為私立醫護專科學校，共有11個科。",
+                       "URL" : "http://www.szmc.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "175",
+                       "area" : "高雄市",
+                       "national" : "私立",
+                       "school" : "中華民國空軍軍官學校",
+                       "instruction" : "中華民國空軍軍官學校為公立軍警院校，簡稱空軍官校，共有4個科系，為培養中華民國空軍軍官的專門學校。",
+                       "URL" : "http://www.cafa.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "176",
+                       "area" : "高雄市",
+                       "national" : "私立",
+                       "school" : "中華民國陸軍軍官學校",
+                       "instruction" : "中華民國陸軍軍官學校為公立軍警院校，別稱「黃埔軍校」，共有9個科系，為培養中華民國陸軍軍官的專門學校。",
+                       "URL" : "http://www.cma.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "177",
+                       "area" : "高雄市",
+                       "national" : "私立",
+                       "school" : "一貫道天皇學院",
+                       "instruction" : "一貫道天皇學院為私立宗教學院，著重一貫義理相關研究。",
+                       "URL" : "http://www.iktc.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "178",
+                       "area" : "澎湖縣",
+                       "national" : "公立",
+                       "school" : "國立澎湖科技大學",
+                       "instruction" : "國立澎湖科技大學為公立科技大學，簡稱澎科大，共有3個學院，為全臺灣第一所設有風車公園的大專院校，並成立國際中小型風機測試中心，目標為打造綠色學校。",
+                       "URL" : "http://www.npu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "179",
+                       "area" : "金門縣",
+                       "national" : "公立",
+                       "school" : "國立金門大學",
+                       "instruction" : "國立金門大學為公立綜合大學，簡稱金大，共有4個學院，前身為國立高雄科學技術學院附設專科部金門分部。",
+                       "URL" : "http://www.nqu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "180",
+                       "area" : "金門縣",
+                       "national" : "私立",
+                       "school" : "銘傳大學(金門校區)",
+                       "instruction" : "銘傳大學為私立綜合大學，在金門校區有2個學院，以住宿教育為中心，並採取2 + 2臺金聯合學制。",
+                       "URL" : "http://kinmen.mcu.edu.tw/zh-hant"
+                       },
+                       
+                       {
+                       "num" : "181",
+                       "area" : "屏東縣",
+                       "national" : "公立",
+                       "school" : "國立東華大學(屏東校區)",
+                       "instruction" : "國立東華大學為公立綜合大學，屏東校區位於屏東縣國立海洋生物博物館內之海洋科學院。",
+                       "URL" : "http://www.ndhu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "182",
+                       "area" : "屏東縣",
+                       "national" : "公立",
+                       "school" : "國立屏東大學",
+                       "instruction" : "國立屏東大學為公立綜合大學，簡稱屏東大學，共有5個學院，擁有校區4處，其中3處位於屏東市、另外1處位於車城鄉。",
+                       "URL" : "http://www.nptu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "183",
+                       "area" : "屏東縣",
+                       "national" : "公立",
+                       "school" : "國立屏東科技大學",
+                       "instruction" : "國立屏東科技大學為公立科技大學，簡稱屏科大，共有6個學院，設有全臺唯一的保育類野生動物收容中心、流浪犬收容中心及工作犬訓練學校。",
+                       "URL" : "http://www.npust.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "183",
+                       "area" : "屏東縣",
+                       "national" : "私立",
+                       "school" : "大仁科技大學",
+                       "instruction" : "大仁科技大學為私立科技大學，共有4個學院，為臺灣少數設有藥學系的大專院校之一。",
+                       "URL" : "http://www.tajen.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "184",
+                       "area" : "屏東縣",
+                       "national" : "私立",
+                       "school" : "美和科技大學",
+                       "instruction" : "美和科技大學為私立科技大學，共有3個學院。",
+                       "URL" : "http://www.meiho.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "185",
+                       "area" : "屏東縣",
+                       "national" : "私立",
+                       "school" : "慈惠醫護管理專科學校",
+                       "instruction" : "慈惠醫護管理專科學校為私立醫護專科學校，共有9個科。",
+                       "URL" : "http://www.tzuhui.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "186",
+                       "area" : "臺東縣",
+                       "national" : "公立",
+                       "school" : "國立臺東大學",
+                       "instruction" : "國立臺東大學為公立綜合大學，簡稱臺東大，共有3個學院，有臺東和知本校區。",
+                       "URL" : "http://www.nttu.edu.tw/"
+                       },
+                       
+                       
+                       {
+                       "num" : "187",
+                       "area" : "臺東縣",
+                       "national" : "公立",
+                       "school" : "國立臺東專科學校",
+                       "instruction" : "國立臺東專科學校為公立專科學校，簡稱東專，共有二專共有7個科，五專共有5個科，並設有高職部。",
+                       "URL" : "http://www.ntc.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "188",
+                       "area" : "花蓮縣",
+                       "national" : "公立",
+                       "school" : "國立東華大學(校本部)",
+                       "instruction" : "國立東華大學為公立綜合大學，在校本部有7個學院，為東臺灣的網際網路、產業發展、學術科研中心。",
+                       "URL" : "http://www.ndhu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "189",
+                       "area" : "花蓮縣",
+                       "national" : "私立",
+                       "school" : "慈濟大學",
+                       "instruction" : "慈濟大學為私立綜合大學，簡稱慈大，共有4個學院，以醫學院聞名。",
+                       "URL" : "http://www.tcu.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "190",
+                       "area" : "花蓮縣",
+                       "national" : "私立",
+                       "school" : "慈濟科技大學",
+                       "instruction" : "慈濟科技大學為私立科技大學，簡稱慈濟科大，共有2個學院。",
+                       "URL" : "http://www.tcust.edu.tw/bin/home.php"
+                       },
+                       
+                       
+                       {
+                       "num" : "191",
+                       "area" : "花蓮縣",
+                       "national" : "私立",
+                       "school" : "大漢技術學院",
+                       "instruction" : "大漢技術學院為私立科技大學，簡稱大漢學院，共有3個學群。",
+                       "URL" : "http://www.dahan.edu.tw/"
+                       },
+                       
+                       {
+                       "num" : "192",
+                       "area" : "花蓮縣",
+                       "national" : "私立",
+                       "school" : "臺灣觀光學院",
+                       "instruction" : "臺灣觀光學院為私立科技大學，簡稱臺觀學院，共有7個系，以觀光餐旅為教學方向。",
+                       "URL" : "http://www.tht.edu.tw/"
+                       }
+                       
+                       
+                       ]
+    
+}

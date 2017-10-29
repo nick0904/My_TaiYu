@@ -1,0 +1,148 @@
+
+{
+    "GoodLifeInfo":[
+                    
+                    [
+                     {
+                     "mainTitle" : "大學招生委員會聯合會",
+                     "subTitle" : "提供大學最新招生訊息、考招重要行事曆。",
+                     "URL" : "http://www.jbcrc.edu.tw"
+                     },
+                     
+                     {
+                     "mainTitle" : "大學多元入學升學網",
+                     "subTitle" : "讓高中生充分認識大學多元入學方案、相關重要考試等資訊。",
+                     "URL" : "http://nsdua.moe.edu.tw"
+                     },
+                     
+                     {
+                     "mainTitle" : "大學聯合分發委員會",
+                     "subTitle" : "讓高中生不用面試可填取想讀的學校。",
+                     "URL" : "http://www2.uac.edu.tw/"
+                     },
+                     
+                     {
+                     "mainTitle" : "大學甄選入學委員會",
+                     "subTitle" : "提供甄選入學相關訊息（含繁星推薦及個人申請），包含簡章、校系分則、錄取名單之查詢等。",
+                     "URL" : "http://www.caac.ccu.edu.tw"
+                     },
+                     
+                     {
+                     "mainTitle" : "大學招生資訊網",
+                     "subTitle" : "了解全台的大學校院的相關資訊",
+                     "URL" : "http://linkus.ceec.edu.tw/linkus/Default.aspx"
+                     },
+                     
+                     {
+                     "mainTitle" : "大學入學考試中心",
+                     "subTitle" : "提供學科能力測驗、指定科目考試及高中英語聽力測驗等相關資訊。",
+                     "URL" : "http://www.ceec.edu.tw"
+                     },
+                     
+                     {
+                     "mainTitle" : "大學考試入學分發委員會",
+                     "subTitle" : "1. 考試分發事宜：簡章、校系分則查詢、統計資料、相關資訊。\n2. 查詢榜單、各校系最低錄取分數。",
+                     "URL" : "http://www.uac.edu.tw"
+                     },
+                     
+                     {
+                     "mainTitle" : "大學術科考試委員會聯合會",
+                     "subTitle" : "提供大學術科考試相關訊息。",
+                     "URL" : "http://www.cape.edu.tw"
+                     },
+                     
+                     {
+                     "mainTitle" : "運動成績優良學生升學輔導網站",
+                     "subTitle" : "運動績優學生升學管道。",
+                     "URL" : "http://issport.camel.ntupes.edu.tw/front/bin/home.phtml"
+                     },
+                     
+                     {
+                     "mainTitle" : "高中英文參考詞彙表",
+                     "subTitle" : "由大考中心委託編制的高中英文參考詞彙表，作為學測、指考之參考詞彙。",
+                     "URL" : "http://www.ceec.edu.tw/Research/paper_doc/ce37/ce37.htm"
+                     }
+                     
+                     ],
+                    
+                    [
+                     {
+                     "mainTitle" : "技專校院招生策進總會",
+                     "subTitle" : "提供四技二專、二技、五專及轉學考等各項招生資訊與介紹。",
+                     "URL" : "http://www.techadmi.edu.tw/"
+                     },
+                     
+                     {
+                     "mainTitle" : "技專校院招生委員會聯合會",
+                     "subTitle" : "提供技專校院等各項招生入學管道。",
+                     "URL" : "https://www.jctv.ntut.edu.tw/"
+                     },
+                     
+                     {
+                     "mainTitle" : "科技校院繁星計畫聯合推薦甄選入學",
+                     "subTitle" : "1.提供繁星計畫入學相關資訊。\n2.考生作業系統：網路報名、資格與比序審查結果查詢、個人排名查詢、網路選填志願、分發結果查詢。",
+                     "URL" : "https://www.jctv.ntut.edu.tw/star/"
+                     },
+                     
+                     {
+                     "mainTitle" : "科技校院日間部四年制申請入學聯合招生委員會",
+                     "subTitle" : "提供科技大學申請入學相關訊息。",
+                     "URL" : "https://www.jctv.ntut.edu.tw/caac/"
+                     },
+                     
+                     {
+                     "mainTitle" : "科技校院四年制及專科學校二年制日間部聯合登記分發入學招生",
+                     "subTitle" : "提供四技二專登記分發相關訊息與重要日程。",
+                     "URL" : "https://www.jctv.ntut.edu.tw/union42/"
+                     },
+                     
+                     {
+                     "mainTitle" : "科技校院四年制及專科學校二年制聯合甄選委員會",
+                     "subTitle" : "提供四技二專甄選入學相關訊息。",
+                     "URL" : "https://www.jctv.ntut.edu.tw/enter42/apply/"
+                     },
+                     
+                     {
+                     "mainTitle" : "科技校院四年制及專科學校二年制招收技藝技能優良學生入學招生",
+                     "subTitle" : "提供四技二專技優入學（保送、甄審）相關訊息。",
+                     "URL" : "https://www.jctv.ntut.edu.tw/enter42/skill/"
+                     },
+                     
+                     {
+                     "mainTitle" : "技訊網",
+                     "subTitle" : "提供科技校院「招生校系」、「入學管道」之查詢。",
+                     "URL" : "http://www.techadmi.edu.tw/search/"
+                     },
+                     
+                     {
+                     "mainTitle" : "台灣雙軌訓練",
+                     "subTitle" : "整合事業單位及技職體系資源，讓學生每週分別在業界實習及學校上課，以降低學校教育與職場技能的落差。",
+                     "URL" : "https://www.dual.nat.gov.tw/index.do"
+                     },
+                     
+                     ],
+                    
+                    
+                    [
+                     {
+                     "mainTitle" : "中央警察大學",
+                     "subTitle" : "提供中央警察大學招生資訊與介紹。",
+                     "URL" : "http://www.cpu.edu.tw"
+                     },
+                     
+                     {
+                     "mainTitle" : "臺灣警察專科學校",
+                     "subTitle" : "提供臺灣警察專科學校招生資訊與介紹。",
+                     "URL" : "http://www.tpa.edu.tw"
+                     },
+                     
+                     {
+                     "mainTitle" : "國軍人才招募中心",
+                     "subTitle" : "提供「國軍招募班隊」相關招生資訊與介紹。",
+                     "URL" : "http://rdrc.mnd.gov.tw"
+                     },
+                     
+                     ]
+                    
+                    ]
+}

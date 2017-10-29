@@ -1,0 +1,65 @@
+{
+    "Art":[
+           {
+           "department" : "美術系",
+           "people" : "詹前裕主任",
+           "URL" : "https://www.youtube.com/watch?v=WbuUUpfGErU&index=4&list=PLSf1I2KcHZIvNO244lQ_B2bjsKwKVPI7D"
+           },
+           
+           {
+           "department" : "美術系",
+           "people" : "張紫瀅同學",
+           "URL" : "https://www.youtube.com/watch?v=_gdMXyU6Nes&index=1&list=PLSf1I2KcHZIvNO244lQ_B2bjsKwKVPI7D"
+           },
+           
+           {
+           "department" : "音樂系",
+           "people" : "郭宗愷教授",
+           "URL" : "https://www.youtube.com/watch?v=_-B_eV9dU3g&list=PLSf1I2KcHZIvNO244lQ_B2bjsKwKVPI7D&index=3"
+           },
+           
+           {
+           "department" : "音樂系",
+           "people" : "王彥斐同學",
+           "URL" : "https://www.youtube.com/watch?v=MyqhWtDdbt4&list=PLSf1I2KcHZIvNO244lQ_B2bjsKwKVPI7D&index=2"
+           },
+           
+           {
+           "department" : "美術學系",
+           "people" : "IOH講座影片",
+           "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=367&qmt%5Bschool%5D%5B%5D=40"
+           },
+           
+           {
+           "department" : "音樂學系",
+           "people" : "IOH講座影片",
+           "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=89&qmt%5Bschool%5D%5B%5D=40"
+           },
+           
+           {
+           "department" : "書畫藝術學系",
+           "people" : "IOH講座影片",
+           "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=360&qmt%5Bschool%5D%5B%5D=40"
+           },
+           
+           {
+           "department" : "造型藝術學系",
+           "people" : "IOH講座影片",
+           "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=246&qmt%5Bschool%5D%5B%5D=40"
+           },
+           
+           {
+           "department" : "戲劇學系",
+           "people" : "IOH講座影片",
+           "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=119&qmt%5Bschool%5D%5B%5D=40"
+           },
+           
+           {
+           "department" : "美術與文創學系",
+           "people" : "IOH講座影片",
+           "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=491"
+           }
+           
+           ]
+    
+}

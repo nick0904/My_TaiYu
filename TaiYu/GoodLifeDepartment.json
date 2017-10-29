@@ -1,0 +1,91 @@
+
+{
+    "GoodLifeDepartment":[
+                          
+                          [
+                           {
+                           "mainTitle" : "漫步在大學──大學校系查詢系統",
+                           "subTitle" : "1.介紹各大學校系之相關資訊。2.可同時比較不同校系之差異。3.認識18學群之基本內涵。4.連結各項招生管道。5.學系更改名稱一覽。",
+                           "URL" : "http://major.ceec.edu.tw/search"
+                           },
+                           
+                           {
+                           "mainTitle" : "大學營隊查詢系統",
+                           "subTitle" : "從大學營隊認識大專校院",
+                           "URL" : "https://career.cloud.ncnu.edu.tw/college_camp.aspx"
+                           },
+                           
+                           {
+                           "mainTitle" : "大學網路博覽會",
+                           "subTitle" : "瞭解各大學校系，以及各種獎勵入學方案。",
+                           "URL" : "http://univ.edu.tw"
+                           },
+                           
+                           {
+                           "mainTitle" : "技職博覽會",
+                           "subTitle" : "提供各科技大學相關資訊。",
+                           "URL" : "http://techexpo.moe.edu.tw"
+                           },
+                           
+                           {
+                           "mainTitle" : "大學問",
+                           "subTitle" : "提供大學及技專相關資訊，包括入學管道、類組介紹……等。",
+                           "URL" : "http://www.unews.com.tw/"
+                           },
+                           
+                           {
+                           "mainTitle" : "IOH開放個人經驗平台",
+                           "subTitle" : "提供國內大學科系總覽、大學各學習領域及生涯進路過來人（學長姊）經驗分享。",
+                           "URL" : "http://ioh.tw"
+                           },
+                           
+                           {
+                           "mainTitle" : "UrSchool",
+                           "subTitle" : "各校學長姊駐站諮詢服務。",
+                           "URL" : "http://urschool.org"
+                           },
+                           
+                           {
+                           "mainTitle" : "104升學就業地圖",
+                           "subTitle" : "提供系友升學、就業、薪資行情、證照專長等資訊。",
+                           "URL" : "http://www.104.com.tw/jb/career/department/index"
+                           },
+                           
+                           ],
+                          
+                          [
+                           {
+                           "mainTitle" : "1111人力銀行Go University落點分析暨科系職涯地圖",
+                           "subTitle" : "普高端：個人申請、繁星推薦、登記分發等落點。\n技高端：甄選入學、登記分發等落點",
+                           "URL" : "http://hs.1111.com.tw"
+                           },
+                           
+                           {
+                           "mainTitle" : "大學落點分析網站",
+                           "subTitle" : "普高端：個人申請、繁星推薦、登記分發等落點。\n技高端：甄選入學落點分析",
+                           "URL" : "http://www.q888.com.tw/pa03.php"
+                           },
+                           
+                           {
+                           "mainTitle" : "大學、科技大學、四技二專-榜單查詢",
+                           "subTitle" : "榜單查詢、落點分析(含警大軍校)。",
+                           "URL" : "http://www.com.tw/"
+                           },
+                           
+                           {
+                           "mainTitle" : "南華大學落點分析",
+                           "subTitle" : "學測及指考落點分析。",
+                           "URL" : "http://xpredict.tw/"
+                           },
+                           
+                           {
+                           "mainTitle" : "得勝者文教──大學簡章與篩選標準",
+                           "subTitle" : "歷年篩選標準及今年簡章查詢",
+                           "URL" : "http://www.victordream.com/pre_examination/"
+                           },
+                           
+                           ]
+                          
+                          ]
+    
+}

@@ -1,0 +1,71 @@
+{
+    "Earth":[
+             {
+             "department" : "地球科學系",
+             "people" : "米泓生主任",
+             "URL" : "https://www.youtube.com/watch?v=AMUza1QcZVg&list=PLSf1I2KcHZItvp1_PpY7w3sFrq7wQjGeY&index=2"
+             },
+             
+             {
+             "department" : "地球科學系",
+             "people" : "劉傑笙同學",
+             "URL" : "https://www.youtube.com/watch?v=rqL5GqHQrb0&list=PLSf1I2KcHZItvp1_PpY7w3sFrq7wQjGeY"
+             },
+             
+             {
+             "department" : "地理系",
+             "people" : "吳連賞教授",
+             "URL" : "https://www.youtube.com/watch?v=4rnV334BUv8&index=3&list=PLSf1I2KcHZItvp1_PpY7w3sFrq7wQjGeY"
+             },
+             
+             {
+             "department" : "地理系",
+             "people" : "賴俊雄同學",
+             "URL" : "https://www.youtube.com/watch?v=DDysD8iHq0s&index=4&list=PLSf1I2KcHZItvp1_PpY7w3sFrq7wQjGeY"
+             },
+             
+             {
+             "department" : "地理學系",
+             "people" : "IOH講座影片",
+             "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=114&qmt%5Bschool%5D%5B%5D=40"
+             },
+             
+             {
+             "department" : "地質科學系",
+             "people" : "IOH講座影片",
+             "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=150&qmt%5Bschool%5D%5B%5D=40"
+             },
+             
+             {
+             "department" : "地球科學系",
+             "people" : "IOH講座影片",
+             "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=82&qmt%5Bschool%5D%5B%5D=40"
+             },
+             
+             {
+             "department" : "海洋科學系",
+             "people" : "IOH講座影片",
+             "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=184&qmt%5Bschool%5D%5B%5D=40"
+             },
+             
+             {
+             "department" : "大氣科學系",
+             "people" : "IOH講座影片",
+             "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=112&qmt%5Bschool%5D%5B%5D=40"
+             },
+             
+             {
+             "department" : "生物工程學系",
+             "people" : "IOH講座影片",
+             "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=103&qmt%5Bschool%5D%5B%5D=40"
+             },
+             
+             {
+             "department" : "資源工程學系",
+             "people" : "IOH講座影片",
+             "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=483"
+             }
+             
+             ]
+    
+}

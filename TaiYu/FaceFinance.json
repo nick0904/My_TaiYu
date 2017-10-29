@@ -1,0 +1,77 @@
+{
+    "Finance":[
+               {
+               "department" : "財務金融系",
+               "people" : "黃宜侯教授",
+               "URL" : "https://www.youtube.com/watch?v=_9kLueltVW8&list=PLSf1I2KcHZIuC4qLoxIXBMfPueIMa4ZV1"
+               },
+               
+               {
+               "department" : "財務金融系",
+               "people" : "陳碧雅同學",
+               "URL" : "https://www.youtube.com/watch?v=NsGNniJO-p0&index=2&list=PLSf1I2KcHZIuC4qLoxIXBMfPueIMa4ZV1"
+               },
+               
+               {
+               "department" : "財務金融學系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=110&qmt%5Bschool%5D%5B%5D=40"
+               },
+               
+               {
+               "department" : "財政學系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=199&qmt%5Bschool%5D%5B%5D=40"
+               },
+               
+               {
+               "department" : "計量財務金融學系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=314&qmt%5Bschool%5D%5B%5D=40"
+               },
+               
+               {
+               "department" : "國際企業學系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=96&qmt%5Bschool%5D%5B%5D=40"
+               },
+               
+               {
+               "department" : "會計資訊學系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=241&qmt%5Bschool%5D%5B%5D=40"
+               },
+               
+               {
+               "department" : "統計學系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=50&qmt%5Bschool%5D%5B%5D=40"
+               },
+               
+               {
+               "department" : "會計學系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=94&qmt%5Bschool%5D%5B%5D=40"
+               },
+               
+               {
+               "department" : "經濟學系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=52&qmt%5Bschool%5D%5B%5D=40"
+               },
+               
+               {
+               "department" : "農業經濟學系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=135&qmt%5Bschool%5D%5B%5D=40"
+               },
+               
+               {
+               "department" : "財務工程與精算數學系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=326&qmt%5Bschool%5D%5B%5D=40"
+               }
+               
+               ]
+    
+}

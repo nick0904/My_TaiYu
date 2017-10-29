@@ -1,0 +1,71 @@
+{
+    "Mathematical":[
+                    {
+                    "department" : "應用數學系",
+                    "people" : "吳金典教授",
+                    "URL" : "https://www.youtube.com/watch?v=_2MCFm15IXE&index=2&list=PLSf1I2KcHZIuWIxs5XUOHKFv3i10UcdJg"
+                    },
+                    
+                    {
+                    "department" : "應用數學系",
+                    "people" : "劉釣庭同學",
+                    "URL" : "https://www.youtube.com/watch?v=FHpepmumV_c&index=1&list=PLSf1I2KcHZIuWIxs5XUOHKFv3i10UcdJg"
+                    },
+                    
+                    {
+                    "department" : "生化科技學系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=142&qmt%5Bschool%5D%5B%5D=40"
+                    },
+                    
+                    {
+                    "department" : "化學系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=101&qmt%5Bschool%5D%5B%5D=40"
+                    },
+                    
+                    {
+                    "department" : "醫藥暨應用化學系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=337&qmt%5Bschool%5D%5B%5D=40"
+                    },
+                    
+                    {
+                    "department" : "農業化學系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=132&qmt%5Bschool%5D%5B%5D=40"
+                    },
+                    
+                    {
+                    "department" : "應用化學系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=264&qmt%5Bschool%5D%5B%5D=40"
+                    },
+                    
+                    {
+                    "department" : "物理系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=24&qmt%5Bschool%5D%5B%5D=40"
+                    },
+                    
+                    {
+                    "department" : "統計系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=50&qmt%5Bschool%5D%5B%5D=40"
+                    },
+                    
+                    {
+                    "department" : "數學系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=117&qmt%5Bschool%5D%5B%5D=40"
+                    },
+                    
+                    {
+                    "department" : "巨量資料管理學系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=514"
+                    }
+                    
+                    ]
+    
+}

@@ -1,0 +1,185 @@
+
+{
+    "GoodLifeHR":[
+                  
+                  [
+                   {
+                   "mainTitle" : "勞動部──行業職業就業指南",
+                   "subTitle" : "提供各行業之勞動市場資訊（現況、就業條件、發展、薪資等）。",
+                   "URL" : "http://www.mol.gov.tw/statistics/2475"
+                   },
+                   
+                   {
+                   "mainTitle" : "勞動部勞動力發展署－職業分類資訊查詢系統",
+                   "subTitle" : "統籌政策規劃並執行職業訓練、技能檢定、就業服務、創業協助、技能競賽與跨國勞動力聘僱。",
+                   "URL" : "http://www.wda.gov.tw/home.jsp?pageno=201112070005"
+                   },
+                   
+                   {
+                   "mainTitle" : "勞動力發展署",
+                   "subTitle" : "辦理職業訓練、技能檢定、國民就業等相關資訊。",
+                   "URL" : "https://www.wda.gov.tw/index.jsp"
+                   },
+                   
+                   {
+                   "mainTitle" : "勞動力發展署--北基宜花金馬分署",
+                   "subTitle" : "北基宜花金馬地區職業訓練、就業服務、技能檢定等服務。",
+                   "URL" : "http://tkyhkm.wda.gov.tw/index.jsp"
+                   },
+                   
+                   {
+                   "mainTitle" : "勞動力發展署--桃竹苗分署",
+                   "subTitle" : "桃竹苗地區職業訓練、就業服務、技能檢定等服務。",
+                   "URL" : "http://thmr.wda.gov.tw/"
+                   },
+                   
+                   {
+                   "mainTitle" : "勞動力發展署--中彰投分署",
+                   "subTitle" : "中彰投地區職業訓練、就業服務、技能檢定等服務。",
+                   "URL" : "http://tcnr.wda.gov.tw/"
+                   },
+                   
+                   {
+                   "mainTitle" : "勞動力發展署--高屏澎東分署",
+                   "subTitle" : "高屏澎東地區職業訓練、就業服務、技能檢定等服務。",
+                   "URL" : "http://kpptr.wda.gov.tw/index.jsp"
+                   },
+                   
+                   {
+                   "mainTitle" : "臺灣就業通",
+                   "subTitle" : "提供求職、求才之平台，亦可查詢政府相關職訓課程。",
+                   "URL" : "https://www.taiwanjobs.gov.tw/Internet/index/index.aspx"
+                   },
+                   
+                   {
+                   "mainTitle" : "臺灣就業通─身心障礙與特定身分",
+                   "subTitle" : "提供身障者及一般民眾求職服務",
+                   "URL" : "https://www.taiwanjobs.gov.tw/Internet/Index/List.aspx?uid=57&pid=10"
+                   },
+                   
+                   {
+                   "mainTitle" : "全國就業e網",
+                   "subTitle" : "可以依產業類別、職業類別查詢徵才企業",
+                   "URL" : "https://www.taiwanjobs.gov.tw/Internet/index/index.aspx"
+                   },
+                   
+                   {
+                   "mainTitle" : "青輔會Youth Hub 青年資訊站",
+                   "subTitle" : "青年公共參與與青年指南",
+                   "URL" : "https://iyouth.youthhub.tw/main.php"
+                   },
+                   
+                   {
+                   "mainTitle" : "YPU青年政策大聯盟",
+                   "subTitle" : "青年公共參與與青年指南",
+                   "URL" : "https://www.youthhub.tw/ypu/index.php"
+                   },
+                   
+                   {
+                   "mainTitle" : "教育部青年發展署",
+                   "subTitle" : "主要內容包含生涯輔導、公共參與、國際及體驗學習",
+                   "URL" : "http://www.yda.gov.tw/index.aspx?SiteID=563426067575657313"
+                   },
+                   
+                   {
+                   "mainTitle" : "教育部國前署─生涯輔導資訊網",
+                   "subTitle" : "提供求職、求才之平台，亦可查詢政府相關職訓課程。",
+                   "URL" : "http://career.cpshs.hcc.edu.tw/bin/home.php"
+                   },
+                   
+                   {
+                   "mainTitle" : "行政院青年輔導委員會",
+                   "subTitle" : "統籌處理全國青年輔導之單位",
+                   "URL" : "http://www.yda.gov.tw/index.aspx?SiteID=563426067575657313"
+                   },
+                   
+                   {
+                   "mainTitle" : "青年職涯發展中心",
+                   "subTitle" : "以全人全職涯的觀點，提供「職涯探索」、「職業訓練」、「就(創)業資訊」等多面向內容。",
+                   "URL" : "http://ys.nat.gov.tw/about-info.php"
+                   },
+                   
+                   {
+                   "mainTitle" : "大專校院就業職能平台",
+                   "subTitle" : "增加學生對職場的瞭解，並透過職能評估，規劃自我能力養成計畫。",
+                   "URL" : "http://ucan.moe.edu.tw"
+                   }
+                   
+                   ],
+                  
+                  [
+                   {
+                   "mainTitle" : "公職王資訊網",
+                   "subTitle" : "國家考試之相關資訊",
+                   "URL" : "http://www.public.com.tw/?_ga=1.16882361.1477508655.1482739921"
+                   },
+                   
+                   {
+                   "mainTitle" : "考友社",
+                   "subTitle" : "就業、升學等考試訊息。",
+                   "URL" : "https://www.examiner.com.tw/"
+                   },
+                   
+                   {
+                   "mainTitle" : "1111進修網 > 證照中心",
+                   "subTitle" : "各式證照介紹。",
+                   "URL" : "http://www.1111edu.com.tw/licence_index.php"
+                   },
+                   
+                   {
+                   "mainTitle" : "104教育網 >104證照中心首頁",
+                   "subTitle" : "各式證照介紹。",
+                   "URL" : "https://certify.104.com.tw/"
+                   }
+                   
+                   ],
+                  
+                  [
+                   {
+                   "mainTitle" : "Career 就業情報網",
+                   "subTitle" : "職涯測驗、各種職務類別介紹。",
+                   "URL" : "http://www.career.com.tw/"
+                   },
+                   
+                   {
+                   "mainTitle" : "YES123",
+                   "subTitle" : "職涯測驗、各種職務類別介紹。",
+                   "URL" : "https://www.yes123.com.tw/admin/index.asp"
+                   },
+                   
+                   {
+                   "mainTitle" : "518人力銀行",
+                   "subTitle" : "職涯測驗、各種職務類別介紹。",
+                   "URL" : "https://www.518.com.tw/"
+                   },
+                   
+                   {
+                   "mainTitle" : "1111人力銀行",
+                   "subTitle" : "職涯測驗、各種職務類別介紹。",
+                   "URL" : "http://www.1111.com.tw"
+                   },
+                   
+                   {
+                   "mainTitle" : "104人力銀行",
+                   "subTitle" : "職涯測驗、各種職務類別介紹。",
+                   "URL" : "http://www.104.com.tw"
+                   },
+                   
+                   {
+                   "mainTitle" : "104 升學就業地圖",
+                   "subTitle" : "畢業 = 失業？！讓學長姐導航！求職不迷路",
+                   "URL" : "https://www.104.com.tw/jb/career/"
+                   },
+                   
+                   {
+                   "mainTitle" : "104 職務大百科",
+                   "subTitle" : "提供查詢各種職務類別介紹",
+                   "URL" : "https://www.104.com.tw/jb/jobwiki/nav"
+                   }
+                   
+                   ]
+                  
+                  
+        ]
+    
+}

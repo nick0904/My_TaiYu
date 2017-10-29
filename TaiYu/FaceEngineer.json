@@ -1,0 +1,224 @@
+
+
+{
+    "Engineer":[
+                
+                {
+                "department" : "工業工程與管理學系",
+                "people" : "梁韵嘉教授",
+                "URL" : "https://www.youtube.com/watch?v=lp-eLGWlPeA&index=2&list=PLSf1I2KcHZIuTTJgS1Ek3-kKZGKjctQap"
+                },
+                
+                {
+                "department" : "工業工程與管理學系",
+                "people" : "戴筠同學",
+                "URL" : "https://www.youtube.com/watch?v=9Ytw93Prqts&list=PLSf1I2KcHZIuTTJgS1Ek3-kKZGKjctQap"
+                },
+                
+                {
+                "department" : "化學工程與材料科學學系",
+                "people" : "孫安正教授",
+                "URL" : "https://www.youtube.com/watch?v=On9-CGqu674&index=4&list=PLSf1I2KcHZIuTTJgS1Ek3-kKZGKjctQap"
+                },
+                
+                {
+                "department" : "化學工程與材料科學學系",
+                "people" : "鄒宜勳同學",
+                "URL" : "https://www.youtube.com/watch?v=OedpKbk0dhc&index=3&list=PLSf1I2KcHZIuTTJgS1Ek3-kKZGKjctQap"
+                },
+                
+                {
+                "department" : "電機系",
+                "people" : "陳敦裕教授",
+                "URL" : "https://www.youtube.com/watch?v=ktsfNkG8N4s&list=PLSf1I2KcHZIuTTJgS1Ek3-kKZGKjctQap&index=6"
+                },
+                
+                {
+                "department" : "電機系",
+                "people" : "鍾長志同學",
+                "URL" : "https://www.youtube.com/watch?v=Jav5uhkLpPQ&index=5&list=PLSf1I2KcHZIuTTJgS1Ek3-kKZGKjctQap"
+                },
+                
+                {
+                "department" : "機械工程學系",
+                "people" : "徐業良教授",
+                "URL" : "https://www.youtube.com/watch?v=jDtDOsFUbLY&index=7&list=PLSf1I2KcHZIuTTJgS1Ek3-kKZGKjctQap"
+                },
+                
+                {
+                "department" : "機械工程學系",
+                "people" : "周子涵同學",
+                "URL" : "https://www.youtube.com/watch?v=Rewx87DjXtI&index=8&list=PLSf1I2KcHZIuTTJgS1Ek3-kKZGKjctQap"
+                },
+                
+                {
+                "department" : "土木工程學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=126&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "工業工程與管理學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=248&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "工業與資訊管理學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=183&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "化學工程學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=20&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "生物工程學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=103&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "生物產業機電工程學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=138&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "生醫工程學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=284&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "生醫工程與環境科學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=187&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "應用材料與光電工程學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=259&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "空間設計學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=243&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "光電工程學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=109&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "材料科學與工程學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=128&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "建築學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=32&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "科技管理學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=366&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "科技工程與管理學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=363&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "航運管理學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=358&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "電機工程學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=23&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "測量與空間資訊學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=346&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "機械工程學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=51&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "機械與自動化工程學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=252&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "機械與機電工程學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=186&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "交通管理科學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=484"
+                },
+                
+                {
+                "department" : "資源工程學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=483"
+                },
+                
+                {
+                "department" : "光機電與材料學士學位學程",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=451"
+                },
+                
+                {
+                "department" : "電子工程學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=447"
+                },
+                
+                {
+                "department" : "能源工程學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=513"
+                },
+                
+                {
+                "department" : "營建管理學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=450"
+                },
+                
+                {
+                "department" : "運輸科技與物流管理學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=441"
+                }
+                
+                ]
+    
+}

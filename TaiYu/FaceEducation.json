@@ -1,0 +1,47 @@
+{
+    "Education":[
+                 {
+                 "department" : "教育學系",
+                 "people" : "許殷宏教授",
+                 "URL" : "https://www.youtube.com/watch?v=Sgb30L_eOh8&list=PLSf1I2KcHZIsM0mbvIFoevf1J32XCwxey"
+                 },
+                 
+                 {
+                 "department" : "教育學系",
+                 "people" : "操玫萱同學",
+                 "URL" : "https://www.youtube.com/watch?v=Gzn3pB7V03s&index=2&list=PLSf1I2KcHZIsM0mbvIFoevf1J32XCwxey"
+                 },
+                 
+                 {
+                 "department" : "教育政策與行政學系",
+                 "people" : "IOH講座影片",
+                 "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=265&qmt%5Bschool%5D%5B%5D=40"
+                 },
+                 
+                 {
+                 "department" : "國際文教與比較教育學系",
+                 "people" : "IOH講座影片",
+                 "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=257&qmt%5Bschool%5D%5B%5D=40"
+                 },
+                 
+                 {
+                 "department" : "教育科技學系",
+                 "people" : "IOH講座影片",
+                 "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=481"
+                 },
+                 
+                 {
+                 "department" : "教育經營與管理學系",
+                 "people" : "IOH講座影片",
+                 "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=515"
+                 },
+                 
+                 {
+                 "department" : "英語教學系",
+                 "people" : "IOH講座影片",
+                 "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=512"
+                 }
+                 
+                 ]
+    
+}

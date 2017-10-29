@@ -1,0 +1,90 @@
+{
+    "Sport":[
+             {
+             "department" : "休閒遊憩管理學系",
+             "people" : "張軒瑄主任\n林莉萍教授",
+             "URL" : "https://www.youtube.com/watch?v=6uvbDBogYmk&index=2&list=PLSf1I2KcHZIt4RcI77nXSm1UPkX8e8gOr"
+             },
+             
+             {
+             "department" : "休閒遊憩管理學系",
+             "people" : "陳宜安同學",
+             "URL" : "https://www.youtube.com/watch?v=UTTKJ-4KaL0&list=PLSf1I2KcHZIt4RcI77nXSm1UPkX8e8gOr&index=2"
+             },
+             
+             {
+             "department" : "觀光事業學系",
+             "people" : "楊俊明教授",
+             "URL" : "https://www.youtube.com/watch?v=GVtnPPfmec0&index=4&list=PLSf1I2KcHZIt4RcI77nXSm1UPkX8e8gOr"
+             },
+             
+             {
+             "department" : "觀光事業學系",
+             "people" : "孫詠晴同學",
+             "URL" : "https://www.youtube.com/watch?v=pfaAuwPjDcE&index=3&list=PLSf1I2KcHZIt4RcI77nXSm1UPkX8e8gOr"
+             },
+             
+             {
+             "department" : "運動競技學系",
+             "people" : "IOH講座影片",
+             "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=355&qmt%5Bschool%5D%5B%5D=40"
+             },
+             
+             {
+             "department" : "餐旅管理學系",
+             "people" : "IOH講座影片",
+             "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=249&qmt%5Bschool%5D%5B%5D=40"
+             },
+             
+             {
+             "department" : "健康產業發展學士學位學程",
+             "people" : "IOH講座影片",
+             "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=369&qmt%5Bschool%5D%5B%5D=40"
+             },
+             
+             {
+             "department" : "觀光旅遊學系",
+             "people" : "IOH講座影片",
+             "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=245&qmt%5Bschool%5D%5B%5D=40"
+             },
+             
+             {
+             "department" : "觀光與餐飲管理學系",
+             "people" : "IOH講座影片",
+             "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=350&qmt%5Bschool%5D%5B%5D=40"
+             },
+             
+             {
+             "department" : "觀光休閒與餐旅管理學系",
+             "people" : "IOH講座影片",
+             "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=278&qmt%5Bschool%5D%5B%5D=40"
+             },
+             
+             {
+             "department" : "觀光與會展學系",
+             "people" : "IOH講座影片",
+             "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=443"
+             },
+             
+             {
+             "department" : "休閒遊憩規劃與管理學系",
+             "people" : "IOH講座影片",
+             "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=444"
+             },
+             
+             {
+             "department" : "休閒產業與健康促進學系",
+             "people" : "IOH講座影片",
+             "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=500"
+             },
+             
+             {
+             "department" : "國際觀光管理學系",
+             "people" : "IOH講座影片",
+             "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=479"
+             }
+             
+             
+             ]
+    
+}

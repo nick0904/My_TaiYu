@@ -1,0 +1,221 @@
+{
+    "Management":[
+                  {
+                  "department" : "企業管理系",
+                  "people" : "王本正教授",
+                  "URL" : "https://www.youtube.com/watch?v=PknclNn8FNs&index=2&list=PLSf1I2KcHZIvKh21QSYAQBqwXa2E9X9Ip"
+                  },
+                  
+                  {
+                  "department" : "企業管理系",
+                  "people" : "管軒佑同學",
+                  "URL" : "https://www.youtube.com/watch?v=Crd0qHggtlo&list=PLSf1I2KcHZIvKh21QSYAQBqwXa2E9X9Ip"
+                  },
+                  
+                  {
+                  "department" : "組織管理學系",
+                  "people" : "陳玉萱教授",
+                  "URL" : "https://www.youtube.com/watch?v=hfVjHeXE7DE&list=PLSf1I2KcHZIvKh21QSYAQBqwXa2E9X9Ip&index=4"
+                  },
+                  
+                  {
+                  "department" : "組織管理學系",
+                  "people" : "熊芳妤同學",
+                  "URL" : "https://www.youtube.com/watch?v=3xyHnUFpPes&index=3&list=PLSf1I2KcHZIvKh21QSYAQBqwXa2E9X9Ip"
+                  },
+                  
+                  {
+                  "department" : "資訊管理學系",
+                  "people" : "楊錦生教授",
+                  "URL" : "https://www.youtube.com/watch?v=kJEOgWhPPzU&list=PLSf1I2KcHZIvKh21QSYAQBqwXa2E9X9Ip&index=7"
+                  },
+                  
+                  {
+                  "department" : "資訊管理學系",
+                  "people" : "周永倫同學",
+                  "URL" : "https://www.youtube.com/watch?v=tUXWOo1r-RI&index=8&list=PLSf1I2KcHZIvKh21QSYAQBqwXa2E9X9Ip"
+                  },
+                  
+                  {
+                  "department" : "餐飲管理系",
+                  "people" : "汪淑台主任",
+                  "URL" : "https://www.youtube.com/watch?v=ntwmpW_eyrU&index=6&list=PLSf1I2KcHZIvKh21QSYAQBqwXa2E9X9Ip"
+                  },
+                  
+                  {
+                  "department" : "餐飲管理系",
+                  "people" : "謝慈芸同學",
+                  "URL" : "https://www.youtube.com/watch?v=wc4Sm5Cnn9I&index=5&list=PLSf1I2KcHZIvKh21QSYAQBqwXa2E9X9Ip"
+                  },
+                  
+                  {
+                  "department" : "人文社會學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=203&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "土地管理與開發學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=370&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "人力資源暨公共關係學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=240&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "公共行政學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=56&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "工業工程與管理學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=248&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "工業與資訊管理學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=183&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "企業管理學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=18&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "行銷學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=194&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "生物產業傳播暨發展學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=137&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "資訊管理學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=45&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "科技管理學位學程",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=366&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "科技管理學院學士班",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=43&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "航運管理學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=358&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "國際企業學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=96&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "科技工程與管理學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=363&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "運動競技學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=355&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "餐旅管理學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=249&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "醫務管理暨醫療資訊學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=340&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "醫務管理學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=98&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "觀光旅遊學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=245&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "觀光休閒與餐旅管理學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=278&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "觀光與餐飲管理學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=350&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "交通管理科學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=484"
+                  },
+                  
+                  {
+                  "department" : "營建管理學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=450"
+                  },
+                  
+                  {
+                  "department" : "運輸科技與物流管理學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=441"
+                  },
+                  
+                  {
+                  "department" : "休閒遊憩規劃與管理學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=444"
+                  },
+                  
+                  {
+                  "department" : "國際觀光管理學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=479"
+                  },
+                  
+                  {
+                  "department" : "經營管理學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=502"
+                  }
+                  
+                  ]
+    
+}

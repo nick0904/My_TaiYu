@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12120" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Navigation Controller-->
+        <scene sceneID="9br-si-Rdy">
+            <objects>
+                <navigationController storyboardIdentifier="InterViewNav" useStoryboardIdentifierAsRestorationIdentifier="YES" id="AGw-Op-l4o" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="DDW-g7-0i2">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="Fvz-0j-Aw2" kind="relationship" relationship="rootViewController" id="0EX-sj-AH4"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="US6-t1-Wac" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-341.25" y="174.53166666666667"/>
+        </scene>
+        <!--Inte View Main View Controller-->
+        <scene sceneID="Zsi-sK-J4y">
+            <objects>
+                <viewController storyboardIdentifier="InterViewMainVC" useStoryboardIdentifierAsRestorationIdentifier="YES" id="Fvz-0j-Aw2" customClass="InteViewMainViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="7lq-8E-Osh">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" id="Gws-cU-Xpv">
+                                <rect key="frame" x="0.0" y="613" width="375" height="54"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="BottomAppLogo" id="Q2h-qq-3mo">
+                                        <rect key="frame" x="117" y="10" width="140" height="35"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" red="0.99872320889999999" green="0.98779219389999995" blue="0.80031436680000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </view>
+                            <view contentMode="scaleToFill" misplaced="YES" id="971-TL-Drt">
+                                <rect key="frame" x="0.0" y="65" width="375" height="530"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                                <subviews>
+                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" misplaced="YES" textAlignment="natural" id="yxw-FQ-AVn">
+                                        <rect key="frame" x="12" y="-2" width="349" height="412"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <string key="text">在接收資訊上，人們更容易被聲音與圖像給吸引，看看常用的社群平台與APP，生活中是不是已經充斥著各式各樣的影片了呢？
+
+科技發展生產出各種攝影設備，影片剪輯軟體讓影像製作更為容易，你準備好用影音履歷來爭取工作了嗎？閱讀下面2大製作重點，嘗試製作具有吸引力的影音履歷，在求職人海中脫穎而出吧！
+ 一、主題設定
+確定自己到底要告訴觀看者什麼資訊，可以思考下面幾點：
+1.      我是誰？
+講述自己的姓名、背景，讓觀看者認識你。 
+2.      我爭取此項工作的原因？
+說明自己的興趣、目標等，表現出熱情。 
+3.      工作單位為什麼要錄取我？
+針對工作單位的需求介紹自己的能力與價值。
+
+二、影片品質
+怎麼拍才好看？努力勾起觀看者錄用你的慾望吧d(･∀･)b
+1.拍攝細節
+注意拍攝時的服裝、背景、構圖、燈光、收音等等是否合宜 
+2.剪輯重點
+剪輯時可以適量運用一些動畫、音效來加強效果，注意不可太浮誇，會模糊焦點。 
+3.影片長度
+太冗長會讓人失去耐心，太短也可能會無法完全表達自己的想法，可以將影片剪輯成多個長短不同的版本，徵求他人的建議。
+ 4.影片格式
+注意完成品體積(KB、MB...)與檔案格式(MP4、WMV...)，要先確認傳輸限制。
+
+※參考看看別人的影音履歷吧！你也可以自行上網去搜尋更多！</string>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                                        <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                    </textView>
+                                    <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="JW2-6G-xM1">
+                                        <rect key="frame" x="12" y="415" width="172" height="47"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                                        <color key="backgroundColor" red="0.99798089265823364" green="0.88393515348434448" blue="0.20322078466415405" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <state key="normal" title="影音履歷參考1">
+                                            <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="yud-4d-h82">
+                                        <rect key="frame" x="192" y="415" width="167" height="46"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                                        <color key="backgroundColor" red="0.99798089270000001" green="0.88393515349999996" blue="0.20322078469999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <state key="normal" title="影音履歷參考2">
+                                            <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="hr8-VX-lpR">
+                                        <rect key="frame" x="12" y="470" width="349" height="45"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                                        <color key="backgroundColor" red="0.99798089270000001" green="0.88393515349999996" blue="0.20322078469999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <state key="normal" title="我要馬上錄錄看(點擊進入前鏡頭攝影模式)">
+                                            <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="Lv1-nl-CKf"/>
+                    <connections>
+                        <outlet property="allBaseView" destination="971-TL-Drt" id="PUs-qX-EGL"/>
+                        <outlet property="btn_record" destination="hr8-VX-lpR" id="psO-G2-k7e"/>
+                        <outlet property="btn_video1" destination="JW2-6G-xM1" id="3c7-OB-SHc"/>
+                        <outlet property="btn_video2" destination="yud-4d-h82" id="Cab-jY-oNr"/>
+                        <outlet property="m_txtView" destination="yxw-FQ-AVn" id="Jz4-ZU-b2z"/>
+                        <outlet property="markView" destination="Gws-cU-Xpv" id="ulR-OR-7Ti"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="zFG-os-M3D" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="102.5" y="174.5"/>
+        </scene>
+        <!--Resume Video View Controller-->
+        <scene sceneID="tGO-b7-srK">
+            <objects>
+                <viewController storyboardIdentifier="ResumeVideoVC" useStoryboardIdentifierAsRestorationIdentifier="YES" id="fyZ-UA-AB3" customClass="ResumeVideoViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="1fU-Z0-xGr">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" id="IqN-Ow-1gn">
+                                <rect key="frame" x="0.0" y="613" width="375" height="54"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="BottomAppLogo" id="eSL-se-Pe4">
+                                        <rect key="frame" x="117" y="10" width="140" height="35"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" red="0.99872320889999999" green="0.98779219389999995" blue="0.80031436680000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="nJ7-Zb-Khh" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="533.75" y="174.53166666666667"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="BottomAppLogo" width="614" height="150"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4_7.fullscreen"/>
+    </simulatedMetricsContainer>
+</document>

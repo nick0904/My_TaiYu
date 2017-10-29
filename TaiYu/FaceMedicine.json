@@ -1,0 +1,191 @@
+{
+    "Medicine":[
+                {
+                "department" : "生死與健康心理諮商系",
+                "people" : "曾煥棠主任\n李佩怡教授",
+                "URL" : "https://www.youtube.com/watch?v=lfnsFa-Ikcw&index=2&list=PLSf1I2KcHZItSb-lFnZIq79snAA0jfzpD"
+                },
+                
+                {
+                "department" : "生死與健康心理諮商系",
+                "people" : "林暐夏同學\n許瓏千同學\n謝明哲同學",
+                "URL" : "https://www.youtube.com/watch?v=2QFNM9hzcmA&list=PLSf1I2KcHZItSb-lFnZIq79snAA0jfzpD&index=1"
+                },
+                
+                {
+                "department" : "生物醫學影像暨放射科學系",
+                "people" : "陳志成主任",
+                "URL" : "https://www.youtube.com/watch?v=GiP6V_wD8uI&list=PLSf1I2KcHZItSb-lFnZIq79snAA0jfzpD&index=4"
+                },
+                
+                {
+                "department" : "生物醫學影像暨放射科學系",
+                "people" : "蔡芯瑜同學",
+                "URL" : "https://www.youtube.com/watch?v=a0uS2H32QUc&list=PLSf1I2KcHZItSb-lFnZIq79snAA0jfzpD&index=3"
+                },
+                
+                {
+                "department" : "物理治療學系",
+                "people" : "陸哲駒教授",
+                "URL" : "https://www.youtube.com/watch?v=HjcZN2HNoXg&list=PLSf1I2KcHZItSb-lFnZIq79snAA0jfzpD&index=6"
+                },
+                
+                {
+                "department" : "物理治療學系",
+                "people" : "楊名廷同學",
+                "URL" : "https://www.youtube.com/watch?v=q7OKXubCKQg&index=5&list=PLSf1I2KcHZItSb-lFnZIq79snAA0jfzpD"
+                },
+                
+                {
+                "department" : "口腔衛生學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=338&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "公共衛生學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=80&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "職業安全與衛生學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=357&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "呼吸治療學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=335&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "物理治療學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=123&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "職能治療學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=124&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "醫務管理學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=98"
+                },
+                
+                {
+                "department" : "醫學影像暨放射科學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=336&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "醫務管理暨醫療資訊學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=340&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "醫學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=111&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "牙醫學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=141&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "藥學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=140&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "護理學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=125&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "運動醫學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=343&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "保健營養學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=362&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "香粧品學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=333&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "獸醫學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=129&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "醫學檢驗暨生物技術學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=48&qmt%5Bschool%5D%5B%5D=40"
+                },
+                
+                {
+                "department" : "物理治療暨輔助科技",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=478"
+                },
+                
+                {
+                "department" : "牙體技術學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=455"
+                },
+                
+                {
+                "department" : "高齡健康管理學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=456"
+                },
+                
+                {
+                "department" : "醫學影像暨放射科學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=475"
+                },
+                
+                {
+                "department" : "語言治療與聽力學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=505"
+                },
+                
+                {
+                "department" : "中醫學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=325"
+                },
+                
+                {
+                "department" : "營養學系",
+                "people" : "IOH講座影片",
+                "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=40&qmt%5Btopic%5D%5B%5D=524"
+                }
+                
+                ]
+    
+}

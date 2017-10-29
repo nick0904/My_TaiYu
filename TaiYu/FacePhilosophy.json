@@ -1,0 +1,83 @@
+{
+    "philosophy":[
+                  {
+                  "department" : "人文社會學系",
+                  "people" : "羅烈師教授",
+                  "URL" : "https://www.youtube.com/watch?v=1LVeWX8euwQ&index=4&list=PLSf1I2KcHZIuy9xflQ7lMLo6qeWRFkjxM"
+                  },
+                  
+                  {
+                  "department" : "人文社會學系",
+                  "people" : "呂竟同學",
+                  "URL" : "https://www.youtube.com/watch?v=7tYSv69Fk9Q&list=PLSf1I2KcHZIuy9xflQ7lMLo6qeWRFkjxM&index=3"
+                  },
+                  
+                  {
+                  "department" : "歷史系",
+                  "people" : "陳登武教授",
+                  "URL" : "https://www.youtube.com/watch?v=dLw9nbLA_mo&index=2&list=PLSf1I2KcHZIuy9xflQ7lMLo6qeWRFkjxM"
+                  },
+                  
+                  {
+                  "department" : "歷史系",
+                  "people" : "郭婉儀同學",
+                  "URL" : "https://www.youtube.com/watch?v=kJSz_JAH7po&list=PLSf1I2KcHZIuy9xflQ7lMLo6qeWRFkjxM"
+                  },
+                  
+                  {
+                  "department" : "中國文學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=115&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "台灣文學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=345&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "文化創意產業經營學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=255&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "圖書資訊學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=116&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "哲學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=120&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "生物產業傳播暨發展學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=137&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "應用哲學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=356&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "歷史學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=107&qmt%5Bschool%5D%5B%5D=40"
+                  },
+                  
+                  {
+                  "department" : "社會與區域發展學系",
+                  "people" : "IOH講座影片",
+                  "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=420&qmt%5Bschool%5D%5B%5D=40"
+                  }
+                  
+                  ]
+    
+}

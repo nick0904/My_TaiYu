@@ -1,0 +1,60 @@
+
+{
+    "Farming":[
+               {
+               "department" : "屏東科技大學 森林系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=449&qmt%5Btopic%5D%5B%5D=133"
+               },
+               
+               {
+               "department" : "屏東科技大學 動物科學與畜產系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=449&qmt%5Btopic%5D%5B%5D=618"
+               },
+               
+               {
+               "department" : "屏東科技大學 農園生產系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=449&qmt%5Btopic%5D%5B%5D=617"
+               },
+               
+               {
+               "department" : "屏東科技大學 植物醫學系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=449&qmt%5Btopic%5D%5B%5D=623"
+               },
+               
+               {
+               "department" : "屏東科技大學 農企業管理系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=449&qmt%5Btopic%5D%5B%5D=615"
+               },
+               
+               {
+               "department" : "屏東科技大學 獸醫學系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=449&qmt%5Btopic%5D%5B%5D=129"
+               },
+               
+               {
+               "department" : "屏東科技大學 熱帶農業暨國際合作系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=449&qmt%5Btopic%5D%5B%5D=619"
+               },
+               
+               {
+               "department" : "虎尾科技大學 生物科技系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=487&qmt%5Btopic%5D%5B%5D=339"
+               },
+               
+               {
+               "department" : "南台科技大學 生物科技系",
+               "people" : "IOH講座影片",
+               "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=460&qmt%5Btopic%5D%5B%5D=339"
+               },
+               
+               ]
+    
+}

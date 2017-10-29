@@ -1,0 +1,84 @@
+{
+    "Architecture":[
+                    {
+                    "department" : "室內設計系",
+                    "people" : "林　葳教授\n李佳玫教授",
+                    "URL" : "https://www.youtube.com/watch?v=-diONkEmtb8&list=PLSf1I2KcHZIt7kKm-VmEyfMIkvB5MdD2K&index=2"
+                    },
+                    
+                    {
+                    "department" : "室內設計系",
+                    "people" : "黃嘉懿同學",
+                    "URL" : "https://www.youtube.com/watch?v=l_9BAUPKD1w&index=1&list=PLSf1I2KcHZIt7kKm-VmEyfMIkvB5MdD2K"
+                    },
+                    
+                    {
+                    "department" : "工業設計學系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=35&qmt%5Bschool%5D%5B%5D=40"
+                    },
+                    
+                    {
+                    "department" : "空間設計學系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=243&qmt%5Bschool%5D%5B%5D=40"
+                    },
+                    
+                    {
+                    "department" : "建築學系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=32&qmt%5Bschool%5D%5B%5D=40"
+                    },
+                    
+                    {
+                    "department" : "造型藝術學系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=246&qmt%5Bschool%5D%5B%5D=40"
+                    },
+                    
+                    {
+                    "department" : "媒體設計學系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=406&qmt%5Bschool%5D%5B%5D=40"
+                    },
+                    
+                    {
+                    "department" : "媒體設計科技學系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=361&qmt%5Bschool%5D%5B%5D=40"
+                    },
+                    
+                    {
+                    "department" : "視覺傳達學系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=191&qmt%5Bschool%5D%5B%5D=40"
+                    },
+                    
+                    {
+                    "department" : "數位內容設計學系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=359&qmt%5Bschool%5D%5B%5D=40"
+                    },
+                    
+                    {
+                    "department" : "服裝設計學系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=431&qmt%5Bschool%5D%5B%5D=40"
+                    },
+                    
+                    {
+                    "department" : "商業設計學系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=417&qmt%5Bschool%5D%5B%5D=40"
+                    },
+                    
+                    {
+                    "department" : "景觀建築學系",
+                    "people" : "IOH講座影片",
+                    "URL" : "https://ioh.tw/?qmt%5Btopic%5D%5B%5D=38&qmt%5Bschool%5D%5B%5D=40"
+                    }
+                    
+                    
+                    ]
+    
+}

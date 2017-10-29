@@ -1,0 +1,38 @@
+
+
+
+{
+    "HealthAndCare":[
+                     {
+                     "department" : "臺北護理健康大學 護理系",
+                     "people" : "IOH講座影片",
+                     "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=473&qmt%5Btopic%5D%5B%5D=125"
+                     },
+                     
+                     {
+                     "department" : "長庚科技大學 護理系",
+                     "people" : "IOH講座影片",
+                     "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=521&qmt%5Btopic%5D%5B%5D=125"
+                     },
+                     
+                     {
+                     "department" : "屏東科技大學 衛生與護理類",
+                     "people" : "IOH講座影片",
+                     "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=449&qmt%5Btopic%5D%5B%5D=339"
+                     },
+                     
+                     {
+                     "department" : "屏東科技大學 休閒運動健康系",
+                     "people" : "IOH講座影片",
+                     "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=449&qmt%5Btopic%5D%5B%5D=454"
+                     },
+                     
+                     {
+                     "department" : "中台科技大學 牙體技術暨材料系",
+                     "people" : "IOH講座影片",
+                     "URL" : "https://ioh.tw/?qmt%5Bschool%5D%5B%5D=628&qmt%5Btopic%5D%5B%5D=629"
+                     }
+                     
+                     ]
+    
+}
